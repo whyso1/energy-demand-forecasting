@@ -1,0 +1,66 @@
+# Central configuration for the energy demand forecasting pipeline.
+# All file paths, modeling choices, and split boundaries live here --
+# nothing is hard-coded in src/.
+
+data:
+  era5_glob: "data/raw/eta_2025_*.nc"
+  eia_csv: "data/raw/eia_load_data.csv"
+  # EIA 'respondent' code to forecast. US48 = EIA's own Lower-48 aggregate,
+  # chosen because it pairs cleanly with CONUS-mean ERA5 weather (see
+  # README "Geographic scope" for why the legacy code's unfiltered
+  # groupby-mean across all 76 respondents was a double-counting bug).
+  respondent: "US48"
+  demand_type: "D"          # EIA type code for actual demand
+  forecast_type: "DF"       # EIA type code for EIA's own day-ahead demand forecast
+
+forecast:
+  # Prediction horizon in hours. horizon=24 means: at issuance time t,
+  # predict demand at t+24. Any feature must be built only from data at
+  # or before issuance time t (i.e. target_time - horizon) to be valid.
+  horizon_hours: 24
+
+features:
+  weather_roll_windows: [3, 6, 12, 24]
+  weather_lag_steps: [1, 2, 3, 6, 12, 24]
+  # Target (demand) lags, expressed in hours *before the target timestamp*.
+  # Every value here must be >= forecast.horizon_hours or it leaks future
+  # demand into the feature set. 24 = the horizon boundary itself (most
+  # recent legal demand lag), 168 = same hour one week prior.
+  target_lag_hours: [24, 48, 72, 168, 336]
+  target_roll_windows_hours: [24, 168]
+
+split:
+  # Fixed chronological cutoffs (inclusive train end / val end). Simple
+  # fixed-cutoff split to start, per the incremental-rebuild plan --
+  # rolling-origin CV can be layered on later.
+  train_end: "2025-08-15T23:00:00"
+  val_end: "2025-09-30T23:00:00"
+  # everything after val_end through the end of the data is the test set
+
+baselines:
+  persistence_lags_hours: [24, 168]
+  seasonal_naive:
+    lookback_cycles: 4      # average of the same hour-of-week over N prior weeks
+
+peak_evaluation:
+  top_n: 30
+  hit_window_hours: 6
+
+models:
+  linear_regression: {}
+  random_forest:
+    n_estimators: 100
+    max_depth: null
+    random_state: 42
+    n_jobs: -1
+  xgboost:
+    n_estimators: 500
+    learning_rate: 0.05
+    max_depth: 5
+    subsample: 0.8
+    colsample_bytree: 0.8
+    random_state: 42
+
+output:
+  tables_dir: "results/tables"
+  figures_dir: "results/figures"

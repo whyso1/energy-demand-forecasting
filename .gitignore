@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# symlinks to large local data files -- machine-specific, not portable
+data/raw/*
+
+results/figures/*

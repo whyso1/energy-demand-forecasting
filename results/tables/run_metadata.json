@@ -1,0 +1,12 @@
+{
+  "respondent": "US48",
+  "horizon_hours": 24,
+  "n_features": 150,
+  "train_rows": 5112,
+  "val_rows": 1104,
+  "test_rows_scored": 1057,
+  "test_range": [
+    "2025-10-01 00:00:00",
+    "2025-11-14 00:00:00"
+  ]
+}
