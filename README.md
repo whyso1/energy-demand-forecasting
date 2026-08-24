@@ -137,7 +137,12 @@ directory moves, recreate the symlinks or point `config/config.yaml`'s
 
 **Rebuilt from scratch:**
 - Chronological train/val/test split (`src/models/split.py`) replacing
-  `train_test_split(..., random_state=0)`.
+  `train_test_split(..., random_state=0)`. **Note:** `run_pipeline.py`
+  currently only reads `splits["train"]` and `splits["test"]` --
+  `splits["val"]` is produced but not yet used for anything (no early
+  stopping, no hyperparameter selection). It's reserved for that future
+  work, not silently doing something it isn't; see "Known limitations"
+  below.
 - Baselines: persistence (t-24h, t-168h), seasonal-naive (mean of the same
   hour-of-week over the prior N weeks), and EIA's own day-ahead forecast --
   computed in `src/features/dataset.py`'s `benchmarks` output, evaluated
@@ -173,6 +178,11 @@ and write to `results/tables/`.
 
 ## Known limitations / next steps
 
+- **`val` split is unused.** `chronological_split()` produces train/val/test,
+  but `run_pipeline.py` only trains on `train` and scores on `test` -- `val`
+  isn't wired into anything yet (e.g. picking between a couple of
+  hyperparameter configs per model, or early stopping for XGBoost). Treat it
+  as reserved, not as evidence that any model selection happened.
 - **Weather latency is idealized.** As noted above, this uses final ERA5
   (5-day publication lag in reality) as if it were available at `t-24h`.
   A deployable version needs forecast weather (GFS/HRRR) or ERA5T.
