@@ -28,6 +28,35 @@ from src.ingestion.eia import load_eia_series
 from src.ingestion.era5 import load_era5_conus_mean
 
 
+def compute_benchmark_features(
+    demand: pd.Series,
+    day_ahead: pd.Series,
+    persistence_lags_hours: list[int],
+    seasonal_lookback_cycles: int,
+) -> pd.DataFrame:
+    """Persistence and seasonal-naive baselines.
+
+    Reindexes `demand` to a complete hourly grid before any .shift(), the
+    same pattern as weather_features.py/target_features.py, so a lag of
+    N hours is always exactly N hours back rather than N *rows* back --
+    which silently means something different if the source series has a
+    missing hour. eia_day_ahead is a plain reindex (no shift), so it
+    doesn't need the same guard.
+    """
+    full_index = pd.date_range(demand.index.min(), demand.index.max(), freq="h")
+    demand_grid = demand.reindex(full_index)
+
+    out = pd.DataFrame(index=full_index)
+    for lag in persistence_lags_hours:
+        out[f"persistence_{lag}h"] = demand_grid.shift(lag)
+
+    weekly_lags = [168 * k for k in range(1, seasonal_lookback_cycles + 1)]
+    out["seasonal_naive"] = pd.concat([demand_grid.shift(lag) for lag in weekly_lags], axis=1).mean(axis=1)
+
+    out["eia_day_ahead"] = day_ahead.reindex(full_index)
+    return out
+
+
 def build_dataset(cfg: dict) -> tuple[pd.DataFrame, pd.Series, pd.DataFrame]:
     """Returns (X, y, benchmarks) all aligned on the same target-time index.
 
@@ -68,15 +97,11 @@ def build_dataset(cfg: dict) -> tuple[pd.DataFrame, pd.Series, pd.DataFrame]:
     y = demand.reindex(X.index)
     y.name = "demand"
 
-    benchmarks = pd.DataFrame(index=X.index)
-    for lag in cfg["baselines"]["persistence_lags_hours"]:
-        benchmarks[f"persistence_{lag}h"] = demand.shift(lag).reindex(X.index)
-
-    n_cycles = cfg["baselines"]["seasonal_naive"]["lookback_cycles"]
-    weekly_lags = [168 * k for k in range(1, n_cycles + 1)]
-    seasonal = pd.concat([demand.shift(lag) for lag in weekly_lags], axis=1).mean(axis=1)
-    benchmarks["seasonal_naive"] = seasonal.reindex(X.index)
-
-    benchmarks["eia_day_ahead"] = day_ahead.reindex(X.index)
+    benchmarks = compute_benchmark_features(
+        demand,
+        day_ahead,
+        cfg["baselines"]["persistence_lags_hours"],
+        cfg["baselines"]["seasonal_naive"]["lookback_cycles"],
+    ).reindex(X.index)
 
     return X, y, benchmarks

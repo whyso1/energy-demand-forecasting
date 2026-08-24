@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import pytest
 
+from src.features.dataset import compute_benchmark_features
 from src.features.target_features import compute_target_features
 from src.features.weather_features import compute_weather_features
 
@@ -15,6 +16,34 @@ def test_weather_lag_uses_only_past_rows():
     for t, row in out.iterrows():
         source_value_2h_ago = df.loc[t - pd.Timedelta(hours=2), "value"]
         assert row["value_lag2"] == source_value_2h_ago
+
+
+def test_persistence_and_seasonal_naive_use_exact_hour_offset_despite_gap():
+    """compute_benchmark_features must reindex to a complete hourly grid
+    before shifting, the same guard weather_features.py/target_features.py
+    already have -- otherwise a missing hour silently turns "lag N hours"
+    into "lag N rows", which drifts by one hour for any target time whose
+    lag window straddles the gap.
+    """
+    idx = pd.date_range("2025-01-01", periods=300, freq="h")
+    demand = pd.Series(np.arange(300, dtype=float), index=idx)
+    gap_time = idx[200]
+    demand = demand.drop(gap_time)  # deliberately missing hour
+    day_ahead = demand.copy()
+
+    out = compute_benchmark_features(
+        demand, day_ahead, persistence_lags_hours=[24], seasonal_lookback_cycles=1
+    )
+
+    # Pick a target time whose 24h lookback window straddles the gap
+    # (gap_time - 24h < t and t - 24h < gap_time < t), so a positional
+    # (row-count) shift would land on the wrong hour.
+    t = idx[210]
+    expected_persistence = demand.loc[t - pd.Timedelta(hours=24)]
+    expected_seasonal = demand.loc[t - pd.Timedelta(hours=168)]
+
+    assert out.loc[t, "persistence_24h"] == expected_persistence
+    assert out.loc[t, "seasonal_naive"] == expected_seasonal
 
 
 def test_weather_features_shifted_by_horizon_equal_source_values():
