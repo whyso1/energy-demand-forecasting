@@ -73,7 +73,13 @@ data and confirmed:
   would need either ERA5T (preliminary, ~5-day-fresher) or actual forecast
   weather (e.g. GFS/HRRR) rather than reanalysis. Treat this pipeline's
   numbers as an upper bound on what's achievable with lagged-reanalysis-only
-  weather, not a deployable forecast.
+  weather, not a deployable forecast. The same caveat applies to demand
+  actuals: `demand_lag{horizon}` assumes EIA's `D` (actuals) value at exactly
+  `t - horizon` is available at issuance time `t - horizon`. Unlike `DF`
+  (a forecast, genuinely known in advance by construction), EIA's hourly
+  actuals can carry their own reporting/revision lag in practice -- this
+  pipeline doesn't model that, same as it doesn't model ERA5's real
+  publication lag.
 - **Geographic scope: `respondent == "US48"`.** EIA's own Lower-48
   aggregate, which pairs with the CONUS-mean ERA5 weather already being
   computed. See "Bonus finding" below for why this isn't just an arbitrary
