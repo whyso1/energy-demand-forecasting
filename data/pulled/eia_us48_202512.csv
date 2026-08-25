@@ -1,0 +1,1489 @@
+period,respondent,respondent-name,type,type-name,value,value-units
+2025-12-01T00,US48,United States Lower 48,D,Demand,513798,megawatthours
+2025-12-01T00,US48,United States Lower 48,DF,Day-ahead demand forecast,503662,megawatthours
+2025-12-01T01,US48,United States Lower 48,D,Demand,516022,megawatthours
+2025-12-01T01,US48,United States Lower 48,DF,Day-ahead demand forecast,509072,megawatthours
+2025-12-01T02,US48,United States Lower 48,D,Demand,513193,megawatthours
+2025-12-01T02,US48,United States Lower 48,DF,Day-ahead demand forecast,508003,megawatthours
+2025-12-01T03,US48,United States Lower 48,D,Demand,504567,megawatthours
+2025-12-01T03,US48,United States Lower 48,DF,Day-ahead demand forecast,499796,megawatthours
+2025-12-01T04,US48,United States Lower 48,D,Demand,489893,megawatthours
+2025-12-01T04,US48,United States Lower 48,DF,Day-ahead demand forecast,487389,megawatthours
+2025-12-01T05,US48,United States Lower 48,D,Demand,474172,megawatthours
+2025-12-01T05,US48,United States Lower 48,DF,Day-ahead demand forecast,474236,megawatthours
+2025-12-01T06,US48,United States Lower 48,D,Demand,459205,megawatthours
+2025-12-01T06,US48,United States Lower 48,DF,Day-ahead demand forecast,461636,megawatthours
+2025-12-01T07,US48,United States Lower 48,D,Demand,450394,megawatthours
+2025-12-01T07,US48,United States Lower 48,DF,Day-ahead demand forecast,451764,megawatthours
+2025-12-01T08,US48,United States Lower 48,D,Demand,444268,megawatthours
+2025-12-01T08,US48,United States Lower 48,DF,Day-ahead demand forecast,447228,megawatthours
+2025-12-01T09,US48,United States Lower 48,D,Demand,438911,megawatthours
+2025-12-01T09,US48,United States Lower 48,DF,Day-ahead demand forecast,449343,megawatthours
+2025-12-01T10,US48,United States Lower 48,D,Demand,442764,megawatthours
+2025-12-01T10,US48,United States Lower 48,DF,Day-ahead demand forecast,457724,megawatthours
+2025-12-01T11,US48,United States Lower 48,D,Demand,457340,megawatthours
+2025-12-01T11,US48,United States Lower 48,DF,Day-ahead demand forecast,476739,megawatthours
+2025-12-01T12,US48,United States Lower 48,D,Demand,483176,megawatthours
+2025-12-01T12,US48,United States Lower 48,DF,Day-ahead demand forecast,500228,megawatthours
+2025-12-01T13,US48,United States Lower 48,D,Demand,508029,megawatthours
+2025-12-01T13,US48,United States Lower 48,DF,Day-ahead demand forecast,520670,megawatthours
+2025-12-01T14,US48,United States Lower 48,D,Demand,517935,megawatthours
+2025-12-01T14,US48,United States Lower 48,DF,Day-ahead demand forecast,528845,megawatthours
+2025-12-01T15,US48,United States Lower 48,D,Demand,519192,megawatthours
+2025-12-01T15,US48,United States Lower 48,DF,Day-ahead demand forecast,529529,megawatthours
+2025-12-01T16,US48,United States Lower 48,D,Demand,519874,megawatthours
+2025-12-01T16,US48,United States Lower 48,DF,Day-ahead demand forecast,525710,megawatthours
+2025-12-01T17,US48,United States Lower 48,D,Demand,516588,megawatthours
+2025-12-01T17,US48,United States Lower 48,DF,Day-ahead demand forecast,519332,megawatthours
+2025-12-01T18,US48,United States Lower 48,D,Demand,516127,megawatthours
+2025-12-01T18,US48,United States Lower 48,DF,Day-ahead demand forecast,514384,megawatthours
+2025-12-01T19,US48,United States Lower 48,D,Demand,509962,megawatthours
+2025-12-01T19,US48,United States Lower 48,DF,Day-ahead demand forecast,509909,megawatthours
+2025-12-01T20,US48,United States Lower 48,D,Demand,509764,megawatthours
+2025-12-01T20,US48,United States Lower 48,DF,Day-ahead demand forecast,508233,megawatthours
+2025-12-01T21,US48,United States Lower 48,D,Demand,510394,megawatthours
+2025-12-01T21,US48,United States Lower 48,DF,Day-ahead demand forecast,511170,megawatthours
+2025-12-01T22,US48,United States Lower 48,D,Demand,517469,megawatthours
+2025-12-01T22,US48,United States Lower 48,DF,Day-ahead demand forecast,520443,megawatthours
+2025-12-01T23,US48,United States Lower 48,D,Demand,533396,megawatthours
+2025-12-01T23,US48,United States Lower 48,DF,Day-ahead demand forecast,533790,megawatthours
+2025-12-02T00,US48,United States Lower 48,D,Demand,548035,megawatthours
+2025-12-02T00,US48,United States Lower 48,DF,Day-ahead demand forecast,546673,megawatthours
+2025-12-02T01,US48,United States Lower 48,D,Demand,547883,megawatthours
+2025-12-02T01,US48,United States Lower 48,DF,Day-ahead demand forecast,551301,megawatthours
+2025-12-02T02,US48,United States Lower 48,D,Demand,544018,megawatthours
+2025-12-02T02,US48,United States Lower 48,DF,Day-ahead demand forecast,547210,megawatthours
+2025-12-02T03,US48,United States Lower 48,D,Demand,532667,megawatthours
+2025-12-02T03,US48,United States Lower 48,DF,Day-ahead demand forecast,534670,megawatthours
+2025-12-02T04,US48,United States Lower 48,D,Demand,515769,megawatthours
+2025-12-02T04,US48,United States Lower 48,DF,Day-ahead demand forecast,516985,megawatthours
+2025-12-02T05,US48,United States Lower 48,D,Demand,496990,megawatthours
+2025-12-02T05,US48,United States Lower 48,DF,Day-ahead demand forecast,497849,megawatthours
+2025-12-02T06,US48,United States Lower 48,D,Demand,482018,megawatthours
+2025-12-02T06,US48,United States Lower 48,DF,Day-ahead demand forecast,481991,megawatthours
+2025-12-02T07,US48,United States Lower 48,D,Demand,472331,megawatthours
+2025-12-02T07,US48,United States Lower 48,DF,Day-ahead demand forecast,470566,megawatthours
+2025-12-02T08,US48,United States Lower 48,D,Demand,464681,megawatthours
+2025-12-02T08,US48,United States Lower 48,DF,Day-ahead demand forecast,463425,megawatthours
+2025-12-02T09,US48,United States Lower 48,D,Demand,458937,megawatthours
+2025-12-02T09,US48,United States Lower 48,DF,Day-ahead demand forecast,463123,megawatthours
+2025-12-02T10,US48,United States Lower 48,D,Demand,460416,megawatthours
+2025-12-02T10,US48,United States Lower 48,DF,Day-ahead demand forecast,469467,megawatthours
+2025-12-02T11,US48,United States Lower 48,D,Demand,469208,megawatthours
+2025-12-02T11,US48,United States Lower 48,DF,Day-ahead demand forecast,486403,megawatthours
+2025-12-02T12,US48,United States Lower 48,D,Demand,492606,megawatthours
+2025-12-02T12,US48,United States Lower 48,DF,Day-ahead demand forecast,509597,megawatthours
+2025-12-02T13,US48,United States Lower 48,D,Demand,516574,megawatthours
+2025-12-02T13,US48,United States Lower 48,DF,Day-ahead demand forecast,531643,megawatthours
+2025-12-02T14,US48,United States Lower 48,D,Demand,530705,megawatthours
+2025-12-02T14,US48,United States Lower 48,DF,Day-ahead demand forecast,542821,megawatthours
+2025-12-02T15,US48,United States Lower 48,D,Demand,539605,megawatthours
+2025-12-02T15,US48,United States Lower 48,DF,Day-ahead demand forecast,545218,megawatthours
+2025-12-02T16,US48,United States Lower 48,D,Demand,542411,megawatthours
+2025-12-02T16,US48,United States Lower 48,DF,Day-ahead demand forecast,542053,megawatthours
+2025-12-02T17,US48,United States Lower 48,D,Demand,540262,megawatthours
+2025-12-02T17,US48,United States Lower 48,DF,Day-ahead demand forecast,533639,megawatthours
+2025-12-02T18,US48,United States Lower 48,D,Demand,536713,megawatthours
+2025-12-02T18,US48,United States Lower 48,DF,Day-ahead demand forecast,524991,megawatthours
+2025-12-02T19,US48,United States Lower 48,D,Demand,531637,megawatthours
+2025-12-02T19,US48,United States Lower 48,DF,Day-ahead demand forecast,517381,megawatthours
+2025-12-02T20,US48,United States Lower 48,D,Demand,525579,megawatthours
+2025-12-02T20,US48,United States Lower 48,DF,Day-ahead demand forecast,512358,megawatthours
+2025-12-02T21,US48,United States Lower 48,D,Demand,521951,megawatthours
+2025-12-02T21,US48,United States Lower 48,DF,Day-ahead demand forecast,511966,megawatthours
+2025-12-02T22,US48,United States Lower 48,D,Demand,528844,megawatthours
+2025-12-02T22,US48,United States Lower 48,DF,Day-ahead demand forecast,519064,megawatthours
+2025-12-02T23,US48,United States Lower 48,D,Demand,541403,megawatthours
+2025-12-02T23,US48,United States Lower 48,DF,Day-ahead demand forecast,532465,megawatthours
+2025-12-03T00,US48,United States Lower 48,D,Demand,550845,megawatthours
+2025-12-03T00,US48,United States Lower 48,DF,Day-ahead demand forecast,545478,megawatthours
+2025-12-03T01,US48,United States Lower 48,D,Demand,554449,megawatthours
+2025-12-03T01,US48,United States Lower 48,DF,Day-ahead demand forecast,553199,megawatthours
+2025-12-03T02,US48,United States Lower 48,D,Demand,551894,megawatthours
+2025-12-03T02,US48,United States Lower 48,DF,Day-ahead demand forecast,551147,megawatthours
+2025-12-03T03,US48,United States Lower 48,D,Demand,541512,megawatthours
+2025-12-03T03,US48,United States Lower 48,DF,Day-ahead demand forecast,539828,megawatthours
+2025-12-03T04,US48,United States Lower 48,D,Demand,525403,megawatthours
+2025-12-03T04,US48,United States Lower 48,DF,Day-ahead demand forecast,523482,megawatthours
+2025-12-03T05,US48,United States Lower 48,D,Demand,507514,megawatthours
+2025-12-03T05,US48,United States Lower 48,DF,Day-ahead demand forecast,505943,megawatthours
+2025-12-03T06,US48,United States Lower 48,D,Demand,492197,megawatthours
+2025-12-03T06,US48,United States Lower 48,DF,Day-ahead demand forecast,489280,megawatthours
+2025-12-03T07,US48,United States Lower 48,D,Demand,479115,megawatthours
+2025-12-03T07,US48,United States Lower 48,DF,Day-ahead demand forecast,475833,megawatthours
+2025-12-03T08,US48,United States Lower 48,D,Demand,471778,megawatthours
+2025-12-03T08,US48,United States Lower 48,DF,Day-ahead demand forecast,467780,megawatthours
+2025-12-03T09,US48,United States Lower 48,D,Demand,467340,megawatthours
+2025-12-03T09,US48,United States Lower 48,DF,Day-ahead demand forecast,466860,megawatthours
+2025-12-03T10,US48,United States Lower 48,D,Demand,470566,megawatthours
+2025-12-03T10,US48,United States Lower 48,DF,Day-ahead demand forecast,475654,megawatthours
+2025-12-03T11,US48,United States Lower 48,D,Demand,483195,megawatthours
+2025-12-03T11,US48,United States Lower 48,DF,Day-ahead demand forecast,492890,megawatthours
+2025-12-03T12,US48,United States Lower 48,D,Demand,507733,megawatthours
+2025-12-03T12,US48,United States Lower 48,DF,Day-ahead demand forecast,516592,megawatthours
+2025-12-03T13,US48,United States Lower 48,D,Demand,531903,megawatthours
+2025-12-03T13,US48,United States Lower 48,DF,Day-ahead demand forecast,535677,megawatthours
+2025-12-03T14,US48,United States Lower 48,D,Demand,541806,megawatthours
+2025-12-03T14,US48,United States Lower 48,DF,Day-ahead demand forecast,541059,megawatthours
+2025-12-03T15,US48,United States Lower 48,D,Demand,540297,megawatthours
+2025-12-03T15,US48,United States Lower 48,DF,Day-ahead demand forecast,537429,megawatthours
+2025-12-03T16,US48,United States Lower 48,D,Demand,536109,megawatthours
+2025-12-03T16,US48,United States Lower 48,DF,Day-ahead demand forecast,527853,megawatthours
+2025-12-03T17,US48,United States Lower 48,D,Demand,530158,megawatthours
+2025-12-03T17,US48,United States Lower 48,DF,Day-ahead demand forecast,515343,megawatthours
+2025-12-03T18,US48,United States Lower 48,D,Demand,522176,megawatthours
+2025-12-03T18,US48,United States Lower 48,DF,Day-ahead demand forecast,504204,megawatthours
+2025-12-03T19,US48,United States Lower 48,D,Demand,514237,megawatthours
+2025-12-03T19,US48,United States Lower 48,DF,Day-ahead demand forecast,495627,megawatthours
+2025-12-03T20,US48,United States Lower 48,D,Demand,509111,megawatthours
+2025-12-03T20,US48,United States Lower 48,DF,Day-ahead demand forecast,491811,megawatthours
+2025-12-03T21,US48,United States Lower 48,D,Demand,508024,megawatthours
+2025-12-03T21,US48,United States Lower 48,DF,Day-ahead demand forecast,493901,megawatthours
+2025-12-03T22,US48,United States Lower 48,D,Demand,516533,megawatthours
+2025-12-03T22,US48,United States Lower 48,DF,Day-ahead demand forecast,503077,megawatthours
+2025-12-03T23,US48,United States Lower 48,D,Demand,532372,megawatthours
+2025-12-03T23,US48,United States Lower 48,DF,Day-ahead demand forecast,518235,megawatthours
+2025-12-04T00,US48,United States Lower 48,D,Demand,543999,megawatthours
+2025-12-04T00,US48,United States Lower 48,DF,Day-ahead demand forecast,532920,megawatthours
+2025-12-04T01,US48,United States Lower 48,D,Demand,550734,megawatthours
+2025-12-04T01,US48,United States Lower 48,DF,Day-ahead demand forecast,540906,megawatthours
+2025-12-04T02,US48,United States Lower 48,D,Demand,549647,megawatthours
+2025-12-04T02,US48,United States Lower 48,DF,Day-ahead demand forecast,540180,megawatthours
+2025-12-04T03,US48,United States Lower 48,D,Demand,541451,megawatthours
+2025-12-04T03,US48,United States Lower 48,DF,Day-ahead demand forecast,530157,megawatthours
+2025-12-04T04,US48,United States Lower 48,D,Demand,525746,megawatthours
+2025-12-04T04,US48,United States Lower 48,DF,Day-ahead demand forecast,514590,megawatthours
+2025-12-04T05,US48,United States Lower 48,D,Demand,508307,megawatthours
+2025-12-04T05,US48,United States Lower 48,DF,Day-ahead demand forecast,497272,megawatthours
+2025-12-04T06,US48,United States Lower 48,D,Demand,493796,megawatthours
+2025-12-04T06,US48,United States Lower 48,DF,Day-ahead demand forecast,487870,megawatthours
+2025-12-04T07,US48,United States Lower 48,D,Demand,483609,megawatthours
+2025-12-04T07,US48,United States Lower 48,DF,Day-ahead demand forecast,474196,megawatthours
+2025-12-04T08,US48,United States Lower 48,D,Demand,476840,megawatthours
+2025-12-04T08,US48,United States Lower 48,DF,Day-ahead demand forecast,469838,megawatthours
+2025-12-04T09,US48,United States Lower 48,D,Demand,475120,megawatthours
+2025-12-04T09,US48,United States Lower 48,DF,Day-ahead demand forecast,469789,megawatthours
+2025-12-04T10,US48,United States Lower 48,D,Demand,476632,megawatthours
+2025-12-04T10,US48,United States Lower 48,DF,Day-ahead demand forecast,476752,megawatthours
+2025-12-04T11,US48,United States Lower 48,D,Demand,487148,megawatthours
+2025-12-04T11,US48,United States Lower 48,DF,Day-ahead demand forecast,493671,megawatthours
+2025-12-04T12,US48,United States Lower 48,D,Demand,512078,megawatthours
+2025-12-04T12,US48,United States Lower 48,DF,Day-ahead demand forecast,514634,megawatthours
+2025-12-04T13,US48,United States Lower 48,D,Demand,534095,megawatthours
+2025-12-04T13,US48,United States Lower 48,DF,Day-ahead demand forecast,533360,megawatthours
+2025-12-04T14,US48,United States Lower 48,D,Demand,544066,megawatthours
+2025-12-04T14,US48,United States Lower 48,DF,Day-ahead demand forecast,540192,megawatthours
+2025-12-04T15,US48,United States Lower 48,D,Demand,544640,megawatthours
+2025-12-04T15,US48,United States Lower 48,DF,Day-ahead demand forecast,541229,megawatthours
+2025-12-04T16,US48,United States Lower 48,D,Demand,542171,megawatthours
+2025-12-04T16,US48,United States Lower 48,DF,Day-ahead demand forecast,535424,megawatthours
+2025-12-04T17,US48,United States Lower 48,D,Demand,537284,megawatthours
+2025-12-04T17,US48,United States Lower 48,DF,Day-ahead demand forecast,528295,megawatthours
+2025-12-04T18,US48,United States Lower 48,D,Demand,536374,megawatthours
+2025-12-04T18,US48,United States Lower 48,DF,Day-ahead demand forecast,520139,megawatthours
+2025-12-04T19,US48,United States Lower 48,D,Demand,531796,megawatthours
+2025-12-04T19,US48,United States Lower 48,DF,Day-ahead demand forecast,514103,megawatthours
+2025-12-04T20,US48,United States Lower 48,D,Demand,529598,megawatthours
+2025-12-04T20,US48,United States Lower 48,DF,Day-ahead demand forecast,511455,megawatthours
+2025-12-04T21,US48,United States Lower 48,D,Demand,530207,megawatthours
+2025-12-04T21,US48,United States Lower 48,DF,Day-ahead demand forecast,513738,megawatthours
+2025-12-04T22,US48,United States Lower 48,D,Demand,535446,megawatthours
+2025-12-04T22,US48,United States Lower 48,DF,Day-ahead demand forecast,522683,megawatthours
+2025-12-04T23,US48,United States Lower 48,D,Demand,549780,megawatthours
+2025-12-04T23,US48,United States Lower 48,DF,Day-ahead demand forecast,537419,megawatthours
+2025-12-05T00,US48,United States Lower 48,D,Demand,555964,megawatthours
+2025-12-05T00,US48,United States Lower 48,DF,Day-ahead demand forecast,551523,megawatthours
+2025-12-05T01,US48,United States Lower 48,D,Demand,560449,megawatthours
+2025-12-05T01,US48,United States Lower 48,DF,Day-ahead demand forecast,557916,megawatthours
+2025-12-05T02,US48,United States Lower 48,D,Demand,558059,megawatthours
+2025-12-05T02,US48,United States Lower 48,DF,Day-ahead demand forecast,556011,megawatthours
+2025-12-05T03,US48,United States Lower 48,D,Demand,548554,megawatthours
+2025-12-05T03,US48,United States Lower 48,DF,Day-ahead demand forecast,545363,megawatthours
+2025-12-05T04,US48,United States Lower 48,D,Demand,533433,megawatthours
+2025-12-05T04,US48,United States Lower 48,DF,Day-ahead demand forecast,530272,megawatthours
+2025-12-05T05,US48,United States Lower 48,D,Demand,515438,megawatthours
+2025-12-05T05,US48,United States Lower 48,DF,Day-ahead demand forecast,512331,megawatthours
+2025-12-05T06,US48,United States Lower 48,D,Demand,498513,megawatthours
+2025-12-05T06,US48,United States Lower 48,DF,Day-ahead demand forecast,498133,megawatthours
+2025-12-05T07,US48,United States Lower 48,D,Demand,486256,megawatthours
+2025-12-05T07,US48,United States Lower 48,DF,Day-ahead demand forecast,435127,megawatthours
+2025-12-05T08,US48,United States Lower 48,D,Demand,476854,megawatthours
+2025-12-05T08,US48,United States Lower 48,DF,Day-ahead demand forecast,429146,megawatthours
+2025-12-05T09,US48,United States Lower 48,D,Demand,472195,megawatthours
+2025-12-05T09,US48,United States Lower 48,DF,Day-ahead demand forecast,427260,megawatthours
+2025-12-05T10,US48,United States Lower 48,D,Demand,473439,megawatthours
+2025-12-05T10,US48,United States Lower 48,DF,Day-ahead demand forecast,433715,megawatthours
+2025-12-05T11,US48,United States Lower 48,D,Demand,482421,megawatthours
+2025-12-05T11,US48,United States Lower 48,DF,Day-ahead demand forecast,448718,megawatthours
+2025-12-05T12,US48,United States Lower 48,D,Demand,505991,megawatthours
+2025-12-05T12,US48,United States Lower 48,DF,Day-ahead demand forecast,467545,megawatthours
+2025-12-05T13,US48,United States Lower 48,D,Demand,530952,megawatthours
+2025-12-05T13,US48,United States Lower 48,DF,Day-ahead demand forecast,482453,megawatthours
+2025-12-05T14,US48,United States Lower 48,D,Demand,544470,megawatthours
+2025-12-05T14,US48,United States Lower 48,DF,Day-ahead demand forecast,487476,megawatthours
+2025-12-05T15,US48,United States Lower 48,D,Demand,548201,megawatthours
+2025-12-05T15,US48,United States Lower 48,DF,Day-ahead demand forecast,487858,megawatthours
+2025-12-05T16,US48,United States Lower 48,D,Demand,547378,megawatthours
+2025-12-05T16,US48,United States Lower 48,DF,Day-ahead demand forecast,482294,megawatthours
+2025-12-05T17,US48,United States Lower 48,D,Demand,544470,megawatthours
+2025-12-05T17,US48,United States Lower 48,DF,Day-ahead demand forecast,475548,megawatthours
+2025-12-05T18,US48,United States Lower 48,D,Demand,540311,megawatthours
+2025-12-05T18,US48,United States Lower 48,DF,Day-ahead demand forecast,467819,megawatthours
+2025-12-05T19,US48,United States Lower 48,D,Demand,536782,megawatthours
+2025-12-05T19,US48,United States Lower 48,DF,Day-ahead demand forecast,462649,megawatthours
+2025-12-05T20,US48,United States Lower 48,D,Demand,533387,megawatthours
+2025-12-05T20,US48,United States Lower 48,DF,Day-ahead demand forecast,460533,megawatthours
+2025-12-05T21,US48,United States Lower 48,D,Demand,532325,megawatthours
+2025-12-05T21,US48,United States Lower 48,DF,Day-ahead demand forecast,462641,megawatthours
+2025-12-05T22,US48,United States Lower 48,D,Demand,536588,megawatthours
+2025-12-05T22,US48,United States Lower 48,DF,Day-ahead demand forecast,470495,megawatthours
+2025-12-05T23,US48,United States Lower 48,D,Demand,544037,megawatthours
+2025-12-05T23,US48,United States Lower 48,DF,Day-ahead demand forecast,480578,megawatthours
+2025-12-06T00,US48,United States Lower 48,D,Demand,546656,megawatthours
+2025-12-06T00,US48,United States Lower 48,DF,Day-ahead demand forecast,486796,megawatthours
+2025-12-06T01,US48,United States Lower 48,D,Demand,545688,megawatthours
+2025-12-06T01,US48,United States Lower 48,DF,Day-ahead demand forecast,487473,megawatthours
+2025-12-06T02,US48,United States Lower 48,D,Demand,540555,megawatthours
+2025-12-06T02,US48,United States Lower 48,DF,Day-ahead demand forecast,482741,megawatthours
+2025-12-06T03,US48,United States Lower 48,D,Demand,530405,megawatthours
+2025-12-06T03,US48,United States Lower 48,DF,Day-ahead demand forecast,472417,megawatthours
+2025-12-06T04,US48,United States Lower 48,D,Demand,516845,megawatthours
+2025-12-06T04,US48,United States Lower 48,DF,Day-ahead demand forecast,458936,megawatthours
+2025-12-06T05,US48,United States Lower 48,D,Demand,500077,megawatthours
+2025-12-06T05,US48,United States Lower 48,DF,Day-ahead demand forecast,444889,megawatthours
+2025-12-06T06,US48,United States Lower 48,D,Demand,484110,megawatthours
+2025-12-06T06,US48,United States Lower 48,DF,Day-ahead demand forecast,431035,megawatthours
+2025-12-06T07,US48,United States Lower 48,D,Demand,470728,megawatthours
+2025-12-06T07,US48,United States Lower 48,DF,Day-ahead demand forecast,417829,megawatthours
+2025-12-06T08,US48,United States Lower 48,D,Demand,460257,megawatthours
+2025-12-06T08,US48,United States Lower 48,DF,Day-ahead demand forecast,409616,megawatthours
+2025-12-06T09,US48,United States Lower 48,D,Demand,453882,megawatthours
+2025-12-06T09,US48,United States Lower 48,DF,Day-ahead demand forecast,407854,megawatthours
+2025-12-06T10,US48,United States Lower 48,D,Demand,452048,megawatthours
+2025-12-06T10,US48,United States Lower 48,DF,Day-ahead demand forecast,408299,megawatthours
+2025-12-06T11,US48,United States Lower 48,D,Demand,455208,megawatthours
+2025-12-06T11,US48,United States Lower 48,DF,Day-ahead demand forecast,414727,megawatthours
+2025-12-06T12,US48,United States Lower 48,D,Demand,462920,megawatthours
+2025-12-06T12,US48,United States Lower 48,DF,Day-ahead demand forecast,423725,megawatthours
+2025-12-06T13,US48,United States Lower 48,D,Demand,477647,megawatthours
+2025-12-06T13,US48,United States Lower 48,DF,Day-ahead demand forecast,434341,megawatthours
+2025-12-06T14,US48,United States Lower 48,D,Demand,491337,megawatthours
+2025-12-06T14,US48,United States Lower 48,DF,Day-ahead demand forecast,442807,megawatthours
+2025-12-06T15,US48,United States Lower 48,D,Demand,500714,megawatthours
+2025-12-06T15,US48,United States Lower 48,DF,Day-ahead demand forecast,447798,megawatthours
+2025-12-06T16,US48,United States Lower 48,D,Demand,503363,megawatthours
+2025-12-06T16,US48,United States Lower 48,DF,Day-ahead demand forecast,445692,megawatthours
+2025-12-06T17,US48,United States Lower 48,D,Demand,503489,megawatthours
+2025-12-06T17,US48,United States Lower 48,DF,Day-ahead demand forecast,440767,megawatthours
+2025-12-06T18,US48,United States Lower 48,D,Demand,500349,megawatthours
+2025-12-06T18,US48,United States Lower 48,DF,Day-ahead demand forecast,434655,megawatthours
+2025-12-06T19,US48,United States Lower 48,D,Demand,496379,megawatthours
+2025-12-06T19,US48,United States Lower 48,DF,Day-ahead demand forecast,429200,megawatthours
+2025-12-06T20,US48,United States Lower 48,D,Demand,492731,megawatthours
+2025-12-06T20,US48,United States Lower 48,DF,Day-ahead demand forecast,426427,megawatthours
+2025-12-06T21,US48,United States Lower 48,D,Demand,490299,megawatthours
+2025-12-06T21,US48,United States Lower 48,DF,Day-ahead demand forecast,426834,megawatthours
+2025-12-06T22,US48,United States Lower 48,D,Demand,492764,megawatthours
+2025-12-06T22,US48,United States Lower 48,DF,Day-ahead demand forecast,433361,megawatthours
+2025-12-06T23,US48,United States Lower 48,D,Demand,504292,megawatthours
+2025-12-06T23,US48,United States Lower 48,DF,Day-ahead demand forecast,444675,megawatthours
+2025-12-07T00,US48,United States Lower 48,D,Demand,510124,megawatthours
+2025-12-07T00,US48,United States Lower 48,DF,Day-ahead demand forecast,453928,megawatthours
+2025-12-07T01,US48,United States Lower 48,D,Demand,511964,megawatthours
+2025-12-07T01,US48,United States Lower 48,DF,Day-ahead demand forecast,457504,megawatthours
+2025-12-07T02,US48,United States Lower 48,D,Demand,510743,megawatthours
+2025-12-07T02,US48,United States Lower 48,DF,Day-ahead demand forecast,455806,megawatthours
+2025-12-07T03,US48,United States Lower 48,D,Demand,503496,megawatthours
+2025-12-07T03,US48,United States Lower 48,DF,Day-ahead demand forecast,448535,megawatthours
+2025-12-07T04,US48,United States Lower 48,D,Demand,493539,megawatthours
+2025-12-07T04,US48,United States Lower 48,DF,Day-ahead demand forecast,437491,megawatthours
+2025-12-07T05,US48,United States Lower 48,D,Demand,466864,megawatthours
+2025-12-07T05,US48,United States Lower 48,DF,Day-ahead demand forecast,424776,megawatthours
+2025-12-07T06,US48,United States Lower 48,D,Demand,466810,megawatthours
+2025-12-07T06,US48,United States Lower 48,DF,Day-ahead demand forecast,413671,megawatthours
+2025-12-07T07,US48,United States Lower 48,D,Demand,454682,megawatthours
+2025-12-07T07,US48,United States Lower 48,DF,Day-ahead demand forecast,449398,megawatthours
+2025-12-07T08,US48,United States Lower 48,D,Demand,446408,megawatthours
+2025-12-07T08,US48,United States Lower 48,DF,Day-ahead demand forecast,441844,megawatthours
+2025-12-07T09,US48,United States Lower 48,D,Demand,441029,megawatthours
+2025-12-07T09,US48,United States Lower 48,DF,Day-ahead demand forecast,439280,megawatthours
+2025-12-07T10,US48,United States Lower 48,D,Demand,440368,megawatthours
+2025-12-07T10,US48,United States Lower 48,DF,Day-ahead demand forecast,439459,megawatthours
+2025-12-07T11,US48,United States Lower 48,D,Demand,443382,megawatthours
+2025-12-07T11,US48,United States Lower 48,DF,Day-ahead demand forecast,445006,megawatthours
+2025-12-07T12,US48,United States Lower 48,D,Demand,449627,megawatthours
+2025-12-07T12,US48,United States Lower 48,DF,Day-ahead demand forecast,453312,megawatthours
+2025-12-07T13,US48,United States Lower 48,D,Demand,461250,megawatthours
+2025-12-07T13,US48,United States Lower 48,DF,Day-ahead demand forecast,462885,megawatthours
+2025-12-07T14,US48,United States Lower 48,D,Demand,472996,megawatthours
+2025-12-07T14,US48,United States Lower 48,DF,Day-ahead demand forecast,472462,megawatthours
+2025-12-07T15,US48,United States Lower 48,D,Demand,480827,megawatthours
+2025-12-07T15,US48,United States Lower 48,DF,Day-ahead demand forecast,477982,megawatthours
+2025-12-07T16,US48,United States Lower 48,D,Demand,481881,megawatthours
+2025-12-07T16,US48,United States Lower 48,DF,Day-ahead demand forecast,478051,megawatthours
+2025-12-07T17,US48,United States Lower 48,D,Demand,482747,megawatthours
+2025-12-07T17,US48,United States Lower 48,DF,Day-ahead demand forecast,475406,megawatthours
+2025-12-07T18,US48,United States Lower 48,D,Demand,483596,megawatthours
+2025-12-07T18,US48,United States Lower 48,DF,Day-ahead demand forecast,471735,megawatthours
+2025-12-07T19,US48,United States Lower 48,D,Demand,486461,megawatthours
+2025-12-07T19,US48,United States Lower 48,DF,Day-ahead demand forecast,469384,megawatthours
+2025-12-07T20,US48,United States Lower 48,D,Demand,485838,megawatthours
+2025-12-07T20,US48,United States Lower 48,DF,Day-ahead demand forecast,468813,megawatthours
+2025-12-07T21,US48,United States Lower 48,D,Demand,489333,megawatthours
+2025-12-07T21,US48,United States Lower 48,DF,Day-ahead demand forecast,472531,megawatthours
+2025-12-07T22,US48,United States Lower 48,D,Demand,495114,megawatthours
+2025-12-07T22,US48,United States Lower 48,DF,Day-ahead demand forecast,482513,megawatthours
+2025-12-07T23,US48,United States Lower 48,D,Demand,509378,megawatthours
+2025-12-07T23,US48,United States Lower 48,DF,Day-ahead demand forecast,496262,megawatthours
+2025-12-08T00,US48,United States Lower 48,D,Demand,518619,megawatthours
+2025-12-08T00,US48,United States Lower 48,DF,Day-ahead demand forecast,508668,megawatthours
+2025-12-08T01,US48,United States Lower 48,D,Demand,523335,megawatthours
+2025-12-08T01,US48,United States Lower 48,DF,Day-ahead demand forecast,515435,megawatthours
+2025-12-08T02,US48,United States Lower 48,D,Demand,522303,megawatthours
+2025-12-08T02,US48,United States Lower 48,DF,Day-ahead demand forecast,514334,megawatthours
+2025-12-08T03,US48,United States Lower 48,D,Demand,513887,megawatthours
+2025-12-08T03,US48,United States Lower 48,DF,Day-ahead demand forecast,505494,megawatthours
+2025-12-08T04,US48,United States Lower 48,D,Demand,500033,megawatthours
+2025-12-08T04,US48,United States Lower 48,DF,Day-ahead demand forecast,492311,megawatthours
+2025-12-08T05,US48,United States Lower 48,D,Demand,482782,megawatthours
+2025-12-08T05,US48,United States Lower 48,DF,Day-ahead demand forecast,476123,megawatthours
+2025-12-08T06,US48,United States Lower 48,D,Demand,468498,megawatthours
+2025-12-08T06,US48,United States Lower 48,DF,Day-ahead demand forecast,458995,megawatthours
+2025-12-08T07,US48,United States Lower 48,D,Demand,459304,megawatthours
+2025-12-08T07,US48,United States Lower 48,DF,Day-ahead demand forecast,448866,megawatthours
+2025-12-08T08,US48,United States Lower 48,D,Demand,452195,megawatthours
+2025-12-08T08,US48,United States Lower 48,DF,Day-ahead demand forecast,443522,megawatthours
+2025-12-08T09,US48,United States Lower 48,D,Demand,448182,megawatthours
+2025-12-08T09,US48,United States Lower 48,DF,Day-ahead demand forecast,445332,megawatthours
+2025-12-08T10,US48,United States Lower 48,D,Demand,453093,megawatthours
+2025-12-08T10,US48,United States Lower 48,DF,Day-ahead demand forecast,453415,megawatthours
+2025-12-08T11,US48,United States Lower 48,D,Demand,466231,megawatthours
+2025-12-08T11,US48,United States Lower 48,DF,Day-ahead demand forecast,471396,megawatthours
+2025-12-08T12,US48,United States Lower 48,D,Demand,494282,megawatthours
+2025-12-08T12,US48,United States Lower 48,DF,Day-ahead demand forecast,497018,megawatthours
+2025-12-08T13,US48,United States Lower 48,D,Demand,521896,megawatthours
+2025-12-08T13,US48,United States Lower 48,DF,Day-ahead demand forecast,521318,megawatthours
+2025-12-08T14,US48,United States Lower 48,D,Demand,535335,megawatthours
+2025-12-08T14,US48,United States Lower 48,DF,Day-ahead demand forecast,532838,megawatthours
+2025-12-08T15,US48,United States Lower 48,D,Demand,538825,megawatthours
+2025-12-08T15,US48,United States Lower 48,DF,Day-ahead demand forecast,535757,megawatthours
+2025-12-08T16,US48,United States Lower 48,D,Demand,538380,megawatthours
+2025-12-08T16,US48,United States Lower 48,DF,Day-ahead demand forecast,532919,megawatthours
+2025-12-08T17,US48,United States Lower 48,D,Demand,536368,megawatthours
+2025-12-08T17,US48,United States Lower 48,DF,Day-ahead demand forecast,526840,megawatthours
+2025-12-08T18,US48,United States Lower 48,D,Demand,531854,megawatthours
+2025-12-08T18,US48,United States Lower 48,DF,Day-ahead demand forecast,520484,megawatthours
+2025-12-08T19,US48,United States Lower 48,D,Demand,528492,megawatthours
+2025-12-08T19,US48,United States Lower 48,DF,Day-ahead demand forecast,515034,megawatthours
+2025-12-08T20,US48,United States Lower 48,D,Demand,526410,megawatthours
+2025-12-08T20,US48,United States Lower 48,DF,Day-ahead demand forecast,513159,megawatthours
+2025-12-08T21,US48,United States Lower 48,D,Demand,527406,megawatthours
+2025-12-08T21,US48,United States Lower 48,DF,Day-ahead demand forecast,515515,megawatthours
+2025-12-08T22,US48,United States Lower 48,D,Demand,536240,megawatthours
+2025-12-08T22,US48,United States Lower 48,DF,Day-ahead demand forecast,525176,megawatthours
+2025-12-08T23,US48,United States Lower 48,D,Demand,547061,megawatthours
+2025-12-08T23,US48,United States Lower 48,DF,Day-ahead demand forecast,538778,megawatthours
+2025-12-09T00,US48,United States Lower 48,D,Demand,562003,megawatthours
+2025-12-09T00,US48,United States Lower 48,DF,Day-ahead demand forecast,551885,megawatthours
+2025-12-09T01,US48,United States Lower 48,D,Demand,567794,megawatthours
+2025-12-09T01,US48,United States Lower 48,DF,Day-ahead demand forecast,557345,megawatthours
+2025-12-09T02,US48,United States Lower 48,D,Demand,567111,megawatthours
+2025-12-09T02,US48,United States Lower 48,DF,Day-ahead demand forecast,553984,megawatthours
+2025-12-09T03,US48,United States Lower 48,D,Demand,556496,megawatthours
+2025-12-09T03,US48,United States Lower 48,DF,Day-ahead demand forecast,542805,megawatthours
+2025-12-09T04,US48,United States Lower 48,D,Demand,540290,megawatthours
+2025-12-09T04,US48,United States Lower 48,DF,Day-ahead demand forecast,526928,megawatthours
+2025-12-09T05,US48,United States Lower 48,D,Demand,520099,megawatthours
+2025-12-09T05,US48,United States Lower 48,DF,Day-ahead demand forecast,510288,megawatthours
+2025-12-09T06,US48,United States Lower 48,D,Demand,506401,megawatthours
+2025-12-09T06,US48,United States Lower 48,DF,Day-ahead demand forecast,493893,megawatthours
+2025-12-09T07,US48,United States Lower 48,D,Demand,495485,megawatthours
+2025-12-09T07,US48,United States Lower 48,DF,Day-ahead demand forecast,484657,megawatthours
+2025-12-09T08,US48,United States Lower 48,D,Demand,487907,megawatthours
+2025-12-09T08,US48,United States Lower 48,DF,Day-ahead demand forecast,479177,megawatthours
+2025-12-09T09,US48,United States Lower 48,D,Demand,484001,megawatthours
+2025-12-09T09,US48,United States Lower 48,DF,Day-ahead demand forecast,479708,megawatthours
+2025-12-09T10,US48,United States Lower 48,D,Demand,488891,megawatthours
+2025-12-09T10,US48,United States Lower 48,DF,Day-ahead demand forecast,488331,megawatthours
+2025-12-09T11,US48,United States Lower 48,D,Demand,503625,megawatthours
+2025-12-09T11,US48,United States Lower 48,DF,Day-ahead demand forecast,505411,megawatthours
+2025-12-09T12,US48,United States Lower 48,D,Demand,530860,megawatthours
+2025-12-09T12,US48,United States Lower 48,DF,Day-ahead demand forecast,528683,megawatthours
+2025-12-09T13,US48,United States Lower 48,D,Demand,556380,megawatthours
+2025-12-09T13,US48,United States Lower 48,DF,Day-ahead demand forecast,546830,megawatthours
+2025-12-09T14,US48,United States Lower 48,D,Demand,564032,megawatthours
+2025-12-09T14,US48,United States Lower 48,DF,Day-ahead demand forecast,551136,megawatthours
+2025-12-09T15,US48,United States Lower 48,D,Demand,556985,megawatthours
+2025-12-09T15,US48,United States Lower 48,DF,Day-ahead demand forecast,545423,megawatthours
+2025-12-09T16,US48,United States Lower 48,D,Demand,544370,megawatthours
+2025-12-09T16,US48,United States Lower 48,DF,Day-ahead demand forecast,533689,megawatthours
+2025-12-09T17,US48,United States Lower 48,D,Demand,534817,megawatthours
+2025-12-09T17,US48,United States Lower 48,DF,Day-ahead demand forecast,520660,megawatthours
+2025-12-09T18,US48,United States Lower 48,D,Demand,524900,megawatthours
+2025-12-09T18,US48,United States Lower 48,DF,Day-ahead demand forecast,509639,megawatthours
+2025-12-09T19,US48,United States Lower 48,D,Demand,516740,megawatthours
+2025-12-09T19,US48,United States Lower 48,DF,Day-ahead demand forecast,501566,megawatthours
+2025-12-09T20,US48,United States Lower 48,D,Demand,510531,megawatthours
+2025-12-09T20,US48,United States Lower 48,DF,Day-ahead demand forecast,497551,megawatthours
+2025-12-09T21,US48,United States Lower 48,D,Demand,510795,megawatthours
+2025-12-09T21,US48,United States Lower 48,DF,Day-ahead demand forecast,499575,megawatthours
+2025-12-09T22,US48,United States Lower 48,D,Demand,519029,megawatthours
+2025-12-09T22,US48,United States Lower 48,DF,Day-ahead demand forecast,510218,megawatthours
+2025-12-09T23,US48,United States Lower 48,D,Demand,537583,megawatthours
+2025-12-09T23,US48,United States Lower 48,DF,Day-ahead demand forecast,523640,megawatthours
+2025-12-10T00,US48,United States Lower 48,D,Demand,548199,megawatthours
+2025-12-10T00,US48,United States Lower 48,DF,Day-ahead demand forecast,535932,megawatthours
+2025-12-10T01,US48,United States Lower 48,D,Demand,557413,megawatthours
+2025-12-10T01,US48,United States Lower 48,DF,Day-ahead demand forecast,549415,megawatthours
+2025-12-10T02,US48,United States Lower 48,D,Demand,556002,megawatthours
+2025-12-10T02,US48,United States Lower 48,DF,Day-ahead demand forecast,545866,megawatthours
+2025-12-10T03,US48,United States Lower 48,D,Demand,546363,megawatthours
+2025-12-10T03,US48,United States Lower 48,DF,Day-ahead demand forecast,532906,megawatthours
+2025-12-10T04,US48,United States Lower 48,D,Demand,529295,megawatthours
+2025-12-10T04,US48,United States Lower 48,DF,Day-ahead demand forecast,515652,megawatthours
+2025-12-10T05,US48,United States Lower 48,D,Demand,509474,megawatthours
+2025-12-10T05,US48,United States Lower 48,DF,Day-ahead demand forecast,495556,megawatthours
+2025-12-10T06,US48,United States Lower 48,D,Demand,492215,megawatthours
+2025-12-10T06,US48,United States Lower 48,DF,Day-ahead demand forecast,481518,megawatthours
+2025-12-10T07,US48,United States Lower 48,D,Demand,480210,megawatthours
+2025-12-10T07,US48,United States Lower 48,DF,Day-ahead demand forecast,469317,megawatthours
+2025-12-10T08,US48,United States Lower 48,D,Demand,471315,megawatthours
+2025-12-10T08,US48,United States Lower 48,DF,Day-ahead demand forecast,461434,megawatthours
+2025-12-10T09,US48,United States Lower 48,D,Demand,468114,megawatthours
+2025-12-10T09,US48,United States Lower 48,DF,Day-ahead demand forecast,459620,megawatthours
+2025-12-10T10,US48,United States Lower 48,D,Demand,470732,megawatthours
+2025-12-10T10,US48,United States Lower 48,DF,Day-ahead demand forecast,465375,megawatthours
+2025-12-10T11,US48,United States Lower 48,D,Demand,482095,megawatthours
+2025-12-10T11,US48,United States Lower 48,DF,Day-ahead demand forecast,481896,megawatthours
+2025-12-10T12,US48,United States Lower 48,D,Demand,505987,megawatthours
+2025-12-10T12,US48,United States Lower 48,DF,Day-ahead demand forecast,503988,megawatthours
+2025-12-10T13,US48,United States Lower 48,D,Demand,529375,megawatthours
+2025-12-10T13,US48,United States Lower 48,DF,Day-ahead demand forecast,524557,megawatthours
+2025-12-10T14,US48,United States Lower 48,D,Demand,536534,megawatthours
+2025-12-10T14,US48,United States Lower 48,DF,Day-ahead demand forecast,532712,megawatthours
+2025-12-10T15,US48,United States Lower 48,D,Demand,530327,megawatthours
+2025-12-10T15,US48,United States Lower 48,DF,Day-ahead demand forecast,530785,megawatthours
+2025-12-10T16,US48,United States Lower 48,D,Demand,521521,megawatthours
+2025-12-10T16,US48,United States Lower 48,DF,Day-ahead demand forecast,522936,megawatthours
+2025-12-10T17,US48,United States Lower 48,D,Demand,516383,megawatthours
+2025-12-10T17,US48,United States Lower 48,DF,Day-ahead demand forecast,513502,megawatthours
+2025-12-10T18,US48,United States Lower 48,D,Demand,510683,megawatthours
+2025-12-10T18,US48,United States Lower 48,DF,Day-ahead demand forecast,505940,megawatthours
+2025-12-10T19,US48,United States Lower 48,D,Demand,507228,megawatthours
+2025-12-10T19,US48,United States Lower 48,DF,Day-ahead demand forecast,499830,megawatthours
+2025-12-10T20,US48,United States Lower 48,D,Demand,504233,megawatthours
+2025-12-10T20,US48,United States Lower 48,DF,Day-ahead demand forecast,497063,megawatthours
+2025-12-10T21,US48,United States Lower 48,D,Demand,505964,megawatthours
+2025-12-10T21,US48,United States Lower 48,DF,Day-ahead demand forecast,498516,megawatthours
+2025-12-10T22,US48,United States Lower 48,D,Demand,511755,megawatthours
+2025-12-10T22,US48,United States Lower 48,DF,Day-ahead demand forecast,507772,megawatthours
+2025-12-10T23,US48,United States Lower 48,D,Demand,524426,megawatthours
+2025-12-10T23,US48,United States Lower 48,DF,Day-ahead demand forecast,519768,megawatthours
+2025-12-11T00,US48,United States Lower 48,D,Demand,532797,megawatthours
+2025-12-11T00,US48,United States Lower 48,DF,Day-ahead demand forecast,530223,megawatthours
+2025-12-11T01,US48,United States Lower 48,D,Demand,536550,megawatthours
+2025-12-11T01,US48,United States Lower 48,DF,Day-ahead demand forecast,533728,megawatthours
+2025-12-11T02,US48,United States Lower 48,D,Demand,533447,megawatthours
+2025-12-11T02,US48,United States Lower 48,DF,Day-ahead demand forecast,530240,megawatthours
+2025-12-11T03,US48,United States Lower 48,D,Demand,523802,megawatthours
+2025-12-11T03,US48,United States Lower 48,DF,Day-ahead demand forecast,519358,megawatthours
+2025-12-11T04,US48,United States Lower 48,D,Demand,508662,megawatthours
+2025-12-11T04,US48,United States Lower 48,DF,Day-ahead demand forecast,503936,megawatthours
+2025-12-11T05,US48,United States Lower 48,D,Demand,491103,megawatthours
+2025-12-11T05,US48,United States Lower 48,DF,Day-ahead demand forecast,486095,megawatthours
+2025-12-11T06,US48,United States Lower 48,D,Demand,473106,megawatthours
+2025-12-11T06,US48,United States Lower 48,DF,Day-ahead demand forecast,471606,megawatthours
+2025-12-11T07,US48,United States Lower 48,D,Demand,461075,megawatthours
+2025-12-11T07,US48,United States Lower 48,DF,Day-ahead demand forecast,459698,megawatthours
+2025-12-11T08,US48,United States Lower 48,D,Demand,453517,megawatthours
+2025-12-11T08,US48,United States Lower 48,DF,Day-ahead demand forecast,453074,megawatthours
+2025-12-11T09,US48,United States Lower 48,D,Demand,451974,megawatthours
+2025-12-11T09,US48,United States Lower 48,DF,Day-ahead demand forecast,453744,megawatthours
+2025-12-11T10,US48,United States Lower 48,D,Demand,455725,megawatthours
+2025-12-11T10,US48,United States Lower 48,DF,Day-ahead demand forecast,462376,megawatthours
+2025-12-11T11,US48,United States Lower 48,D,Demand,469480,megawatthours
+2025-12-11T11,US48,United States Lower 48,DF,Day-ahead demand forecast,481132,megawatthours
+2025-12-11T12,US48,United States Lower 48,D,Demand,498025,megawatthours
+2025-12-11T12,US48,United States Lower 48,DF,Day-ahead demand forecast,507699,megawatthours
+2025-12-11T13,US48,United States Lower 48,D,Demand,525401,megawatthours
+2025-12-11T13,US48,United States Lower 48,DF,Day-ahead demand forecast,529560,megawatthours
+2025-12-11T14,US48,United States Lower 48,D,Demand,535852,megawatthours
+2025-12-11T14,US48,United States Lower 48,DF,Day-ahead demand forecast,537814,megawatthours
+2025-12-11T15,US48,United States Lower 48,D,Demand,531334,megawatthours
+2025-12-11T15,US48,United States Lower 48,DF,Day-ahead demand forecast,535011,megawatthours
+2025-12-11T16,US48,United States Lower 48,D,Demand,522718,megawatthours
+2025-12-11T16,US48,United States Lower 48,DF,Day-ahead demand forecast,526830,megawatthours
+2025-12-11T17,US48,United States Lower 48,D,Demand,516494,megawatthours
+2025-12-11T17,US48,United States Lower 48,DF,Day-ahead demand forecast,517994,megawatthours
+2025-12-11T18,US48,United States Lower 48,D,Demand,510602,megawatthours
+2025-12-11T18,US48,United States Lower 48,DF,Day-ahead demand forecast,509714,megawatthours
+2025-12-11T19,US48,United States Lower 48,D,Demand,505562,megawatthours
+2025-12-11T19,US48,United States Lower 48,DF,Day-ahead demand forecast,504406,megawatthours
+2025-12-11T20,US48,United States Lower 48,D,Demand,502066,megawatthours
+2025-12-11T20,US48,United States Lower 48,DF,Day-ahead demand forecast,502580,megawatthours
+2025-12-11T21,US48,United States Lower 48,D,Demand,500123,megawatthours
+2025-12-11T21,US48,United States Lower 48,DF,Day-ahead demand forecast,505577,megawatthours
+2025-12-11T22,US48,United States Lower 48,D,Demand,512150,megawatthours
+2025-12-11T22,US48,United States Lower 48,DF,Day-ahead demand forecast,516849,megawatthours
+2025-12-11T23,US48,United States Lower 48,D,Demand,530550,megawatthours
+2025-12-11T23,US48,United States Lower 48,DF,Day-ahead demand forecast,530308,megawatthours
+2025-12-12T00,US48,United States Lower 48,D,Demand,541402,megawatthours
+2025-12-12T00,US48,United States Lower 48,DF,Day-ahead demand forecast,543020,megawatthours
+2025-12-12T01,US48,United States Lower 48,D,Demand,547579,megawatthours
+2025-12-12T01,US48,United States Lower 48,DF,Day-ahead demand forecast,547859,megawatthours
+2025-12-12T02,US48,United States Lower 48,D,Demand,547574,megawatthours
+2025-12-12T02,US48,United States Lower 48,DF,Day-ahead demand forecast,545040,megawatthours
+2025-12-12T03,US48,United States Lower 48,D,Demand,539256,megawatthours
+2025-12-12T03,US48,United States Lower 48,DF,Day-ahead demand forecast,534089,megawatthours
+2025-12-12T04,US48,United States Lower 48,D,Demand,524445,megawatthours
+2025-12-12T04,US48,United States Lower 48,DF,Day-ahead demand forecast,519287,megawatthours
+2025-12-12T05,US48,United States Lower 48,D,Demand,504881,megawatthours
+2025-12-12T05,US48,United States Lower 48,DF,Day-ahead demand forecast,501135,megawatthours
+2025-12-12T06,US48,United States Lower 48,D,Demand,488398,megawatthours
+2025-12-12T06,US48,United States Lower 48,DF,Day-ahead demand forecast,486477,megawatthours
+2025-12-12T07,US48,United States Lower 48,D,Demand,477533,megawatthours
+2025-12-12T07,US48,United States Lower 48,DF,Day-ahead demand forecast,472683,megawatthours
+2025-12-12T08,US48,United States Lower 48,D,Demand,470034,megawatthours
+2025-12-12T08,US48,United States Lower 48,DF,Day-ahead demand forecast,465489,megawatthours
+2025-12-12T09,US48,United States Lower 48,D,Demand,467262,megawatthours
+2025-12-12T09,US48,United States Lower 48,DF,Day-ahead demand forecast,463892,megawatthours
+2025-12-12T10,US48,United States Lower 48,D,Demand,469317,megawatthours
+2025-12-12T10,US48,United States Lower 48,DF,Day-ahead demand forecast,470365,megawatthours
+2025-12-12T11,US48,United States Lower 48,D,Demand,481969,megawatthours
+2025-12-12T11,US48,United States Lower 48,DF,Day-ahead demand forecast,486309,megawatthours
+2025-12-12T12,US48,United States Lower 48,D,Demand,507691,megawatthours
+2025-12-12T12,US48,United States Lower 48,DF,Day-ahead demand forecast,509782,megawatthours
+2025-12-12T13,US48,United States Lower 48,D,Demand,532149,megawatthours
+2025-12-12T13,US48,United States Lower 48,DF,Day-ahead demand forecast,529306,megawatthours
+2025-12-12T14,US48,United States Lower 48,D,Demand,540632,megawatthours
+2025-12-12T14,US48,United States Lower 48,DF,Day-ahead demand forecast,534675,megawatthours
+2025-12-12T15,US48,United States Lower 48,D,Demand,534897,megawatthours
+2025-12-12T15,US48,United States Lower 48,DF,Day-ahead demand forecast,529414,megawatthours
+2025-12-12T16,US48,United States Lower 48,D,Demand,525823,megawatthours
+2025-12-12T16,US48,United States Lower 48,DF,Day-ahead demand forecast,519118,megawatthours
+2025-12-12T17,US48,United States Lower 48,D,Demand,516714,megawatthours
+2025-12-12T17,US48,United States Lower 48,DF,Day-ahead demand forecast,508630,megawatthours
+2025-12-12T18,US48,United States Lower 48,D,Demand,508366,megawatthours
+2025-12-12T18,US48,United States Lower 48,DF,Day-ahead demand forecast,499905,megawatthours
+2025-12-12T19,US48,United States Lower 48,D,Demand,501713,megawatthours
+2025-12-12T19,US48,United States Lower 48,DF,Day-ahead demand forecast,494187,megawatthours
+2025-12-12T20,US48,United States Lower 48,D,Demand,499936,megawatthours
+2025-12-12T20,US48,United States Lower 48,DF,Day-ahead demand forecast,493131,megawatthours
+2025-12-12T21,US48,United States Lower 48,D,Demand,499733,megawatthours
+2025-12-12T21,US48,United States Lower 48,DF,Day-ahead demand forecast,496376,megawatthours
+2025-12-12T22,US48,United States Lower 48,D,Demand,507432,megawatthours
+2025-12-12T22,US48,United States Lower 48,DF,Day-ahead demand forecast,506971,megawatthours
+2025-12-12T23,US48,United States Lower 48,D,Demand,523626,megawatthours
+2025-12-12T23,US48,United States Lower 48,DF,Day-ahead demand forecast,518686,megawatthours
+2025-12-13T00,US48,United States Lower 48,D,Demand,528692,megawatthours
+2025-12-13T00,US48,United States Lower 48,DF,Day-ahead demand forecast,527396,megawatthours
+2025-12-13T01,US48,United States Lower 48,D,Demand,529889,megawatthours
+2025-12-13T01,US48,United States Lower 48,DF,Day-ahead demand forecast,529692,megawatthours
+2025-12-13T02,US48,United States Lower 48,D,Demand,527424,megawatthours
+2025-12-13T02,US48,United States Lower 48,DF,Day-ahead demand forecast,525364,megawatthours
+2025-12-13T03,US48,United States Lower 48,D,Demand,519830,megawatthours
+2025-12-13T03,US48,United States Lower 48,DF,Day-ahead demand forecast,516496,megawatthours
+2025-12-13T04,US48,United States Lower 48,D,Demand,511210,megawatthours
+2025-12-13T04,US48,United States Lower 48,DF,Day-ahead demand forecast,504308,megawatthours
+2025-12-13T05,US48,United States Lower 48,D,Demand,498881,megawatthours
+2025-12-13T05,US48,United States Lower 48,DF,Day-ahead demand forecast,489918,megawatthours
+2025-12-13T06,US48,United States Lower 48,D,Demand,484803,megawatthours
+2025-12-13T06,US48,United States Lower 48,DF,Day-ahead demand forecast,476631,megawatthours
+2025-12-13T07,US48,United States Lower 48,D,Demand,474082,megawatthours
+2025-12-13T07,US48,United States Lower 48,DF,Day-ahead demand forecast,463212,megawatthours
+2025-12-13T08,US48,United States Lower 48,D,Demand,466002,megawatthours
+2025-12-13T08,US48,United States Lower 48,DF,Day-ahead demand forecast,456859,megawatthours
+2025-12-13T09,US48,United States Lower 48,D,Demand,462612,megawatthours
+2025-12-13T09,US48,United States Lower 48,DF,Day-ahead demand forecast,456045,megawatthours
+2025-12-13T10,US48,United States Lower 48,D,Demand,462494,megawatthours
+2025-12-13T10,US48,United States Lower 48,DF,Day-ahead demand forecast,458061,megawatthours
+2025-12-13T11,US48,United States Lower 48,D,Demand,466634,megawatthours
+2025-12-13T11,US48,United States Lower 48,DF,Day-ahead demand forecast,465440,megawatthours
+2025-12-13T12,US48,United States Lower 48,D,Demand,476314,megawatthours
+2025-12-13T12,US48,United States Lower 48,DF,Day-ahead demand forecast,475932,megawatthours
+2025-12-13T13,US48,United States Lower 48,D,Demand,490870,megawatthours
+2025-12-13T13,US48,United States Lower 48,DF,Day-ahead demand forecast,489212,megawatthours
+2025-12-13T14,US48,United States Lower 48,D,Demand,502678,megawatthours
+2025-12-13T14,US48,United States Lower 48,DF,Day-ahead demand forecast,498245,megawatthours
+2025-12-13T15,US48,United States Lower 48,D,Demand,506386,megawatthours
+2025-12-13T15,US48,United States Lower 48,DF,Day-ahead demand forecast,501475,megawatthours
+2025-12-13T16,US48,United States Lower 48,D,Demand,503416,megawatthours
+2025-12-13T16,US48,United States Lower 48,DF,Day-ahead demand forecast,498536,megawatthours
+2025-12-13T17,US48,United States Lower 48,D,Demand,501513,megawatthours
+2025-12-13T17,US48,United States Lower 48,DF,Day-ahead demand forecast,493286,megawatthours
+2025-12-13T18,US48,United States Lower 48,D,Demand,498164,megawatthours
+2025-12-13T18,US48,United States Lower 48,DF,Day-ahead demand forecast,487201,megawatthours
+2025-12-13T19,US48,United States Lower 48,D,Demand,494442,megawatthours
+2025-12-13T19,US48,United States Lower 48,DF,Day-ahead demand forecast,481843,megawatthours
+2025-12-13T20,US48,United States Lower 48,D,Demand,491250,megawatthours
+2025-12-13T20,US48,United States Lower 48,DF,Day-ahead demand forecast,479652,megawatthours
+2025-12-13T21,US48,United States Lower 48,D,Demand,491462,megawatthours
+2025-12-13T21,US48,United States Lower 48,DF,Day-ahead demand forecast,481575,megawatthours
+2025-12-13T22,US48,United States Lower 48,D,Demand,497010,megawatthours
+2025-12-13T22,US48,United States Lower 48,DF,Day-ahead demand forecast,490484,megawatthours
+2025-12-13T23,US48,United States Lower 48,D,Demand,507627,megawatthours
+2025-12-13T23,US48,United States Lower 48,DF,Day-ahead demand forecast,503632,megawatthours
+2025-12-14T00,US48,United States Lower 48,D,Demand,513565,megawatthours
+2025-12-14T00,US48,United States Lower 48,DF,Day-ahead demand forecast,514069,megawatthours
+2025-12-14T01,US48,United States Lower 48,D,Demand,516211,megawatthours
+2025-12-14T01,US48,United States Lower 48,DF,Day-ahead demand forecast,517338,megawatthours
+2025-12-14T02,US48,United States Lower 48,D,Demand,513596,megawatthours
+2025-12-14T02,US48,United States Lower 48,DF,Day-ahead demand forecast,515008,megawatthours
+2025-12-14T03,US48,United States Lower 48,D,Demand,507712,megawatthours
+2025-12-14T03,US48,United States Lower 48,DF,Day-ahead demand forecast,507248,megawatthours
+2025-12-14T04,US48,United States Lower 48,D,Demand,498850,megawatthours
+2025-12-14T04,US48,United States Lower 48,DF,Day-ahead demand forecast,495954,megawatthours
+2025-12-14T05,US48,United States Lower 48,D,Demand,487450,megawatthours
+2025-12-14T05,US48,United States Lower 48,DF,Day-ahead demand forecast,483013,megawatthours
+2025-12-14T06,US48,United States Lower 48,D,Demand,474498,megawatthours
+2025-12-14T06,US48,United States Lower 48,DF,Day-ahead demand forecast,468065,megawatthours
+2025-12-14T07,US48,United States Lower 48,D,Demand,464226,megawatthours
+2025-12-14T07,US48,United States Lower 48,DF,Day-ahead demand forecast,458762,megawatthours
+2025-12-14T08,US48,United States Lower 48,D,Demand,456866,megawatthours
+2025-12-14T08,US48,United States Lower 48,DF,Day-ahead demand forecast,453529,megawatthours
+2025-12-14T09,US48,United States Lower 48,D,Demand,453240,megawatthours
+2025-12-14T09,US48,United States Lower 48,DF,Day-ahead demand forecast,453205,megawatthours
+2025-12-14T10,US48,United States Lower 48,D,Demand,452582,megawatthours
+2025-12-14T10,US48,United States Lower 48,DF,Day-ahead demand forecast,455789,megawatthours
+2025-12-14T11,US48,United States Lower 48,D,Demand,458695,megawatthours
+2025-12-14T11,US48,United States Lower 48,DF,Day-ahead demand forecast,463487,megawatthours
+2025-12-14T12,US48,United States Lower 48,D,Demand,468105,megawatthours
+2025-12-14T12,US48,United States Lower 48,DF,Day-ahead demand forecast,473820,megawatthours
+2025-12-14T13,US48,United States Lower 48,D,Demand,484179,megawatthours
+2025-12-14T13,US48,United States Lower 48,DF,Day-ahead demand forecast,489551,megawatthours
+2025-12-14T14,US48,United States Lower 48,D,Demand,503177,megawatthours
+2025-12-14T14,US48,United States Lower 48,DF,Day-ahead demand forecast,505656,megawatthours
+2025-12-14T15,US48,United States Lower 48,D,Demand,518102,megawatthours
+2025-12-14T15,US48,United States Lower 48,DF,Day-ahead demand forecast,516297,megawatthours
+2025-12-14T16,US48,United States Lower 48,D,Demand,525160,megawatthours
+2025-12-14T16,US48,United States Lower 48,DF,Day-ahead demand forecast,520958,megawatthours
+2025-12-14T17,US48,United States Lower 48,D,Demand,527838,megawatthours
+2025-12-14T17,US48,United States Lower 48,DF,Day-ahead demand forecast,520450,megawatthours
+2025-12-14T18,US48,United States Lower 48,D,Demand,529845,megawatthours
+2025-12-14T18,US48,United States Lower 48,DF,Day-ahead demand forecast,518124,megawatthours
+2025-12-14T19,US48,United States Lower 48,D,Demand,528576,megawatthours
+2025-12-14T19,US48,United States Lower 48,DF,Day-ahead demand forecast,516735,megawatthours
+2025-12-14T20,US48,United States Lower 48,D,Demand,526883,megawatthours
+2025-12-14T20,US48,United States Lower 48,DF,Day-ahead demand forecast,517360,megawatthours
+2025-12-14T21,US48,United States Lower 48,D,Demand,529095,megawatthours
+2025-12-14T21,US48,United States Lower 48,DF,Day-ahead demand forecast,520630,megawatthours
+2025-12-14T22,US48,United States Lower 48,D,Demand,543204,megawatthours
+2025-12-14T22,US48,United States Lower 48,DF,Day-ahead demand forecast,533839,megawatthours
+2025-12-14T23,US48,United States Lower 48,D,Demand,566411,megawatthours
+2025-12-14T23,US48,United States Lower 48,DF,Day-ahead demand forecast,552004,megawatthours
+2025-12-15T00,US48,United States Lower 48,D,Demand,584560,megawatthours
+2025-12-15T00,US48,United States Lower 48,DF,Day-ahead demand forecast,570817,megawatthours
+2025-12-15T01,US48,United States Lower 48,D,Demand,593583,megawatthours
+2025-12-15T01,US48,United States Lower 48,DF,Day-ahead demand forecast,579841,megawatthours
+2025-12-15T02,US48,United States Lower 48,D,Demand,598030,megawatthours
+2025-12-15T02,US48,United States Lower 48,DF,Day-ahead demand forecast,580602,megawatthours
+2025-12-15T03,US48,United States Lower 48,D,Demand,591599,megawatthours
+2025-12-15T03,US48,United States Lower 48,DF,Day-ahead demand forecast,573490,megawatthours
+2025-12-15T04,US48,United States Lower 48,D,Demand,579047,megawatthours
+2025-12-15T04,US48,United States Lower 48,DF,Day-ahead demand forecast,561519,megawatthours
+2025-12-15T05,US48,United States Lower 48,D,Demand,564763,megawatthours
+2025-12-15T05,US48,United States Lower 48,DF,Day-ahead demand forecast,546633,megawatthours
+2025-12-15T06,US48,United States Lower 48,D,Demand,550884,megawatthours
+2025-12-15T06,US48,United States Lower 48,DF,Day-ahead demand forecast,537747,megawatthours
+2025-12-15T07,US48,United States Lower 48,D,Demand,543716,megawatthours
+2025-12-15T07,US48,United States Lower 48,DF,Day-ahead demand forecast,529349,megawatthours
+2025-12-15T08,US48,United States Lower 48,D,Demand,538745,megawatthours
+2025-12-15T08,US48,United States Lower 48,DF,Day-ahead demand forecast,525232,megawatthours
+2025-12-15T09,US48,United States Lower 48,D,Demand,538576,megawatthours
+2025-12-15T09,US48,United States Lower 48,DF,Day-ahead demand forecast,527711,megawatthours
+2025-12-15T10,US48,United States Lower 48,D,Demand,543761,megawatthours
+2025-12-15T10,US48,United States Lower 48,DF,Day-ahead demand forecast,537989,megawatthours
+2025-12-15T11,US48,United States Lower 48,D,Demand,559013,megawatthours
+2025-12-15T11,US48,United States Lower 48,DF,Day-ahead demand forecast,556934,megawatthours
+2025-12-15T12,US48,United States Lower 48,D,Demand,585317,megawatthours
+2025-12-15T12,US48,United States Lower 48,DF,Day-ahead demand forecast,583162,megawatthours
+2025-12-15T13,US48,United States Lower 48,D,Demand,612259,megawatthours
+2025-12-15T13,US48,United States Lower 48,DF,Day-ahead demand forecast,606011,megawatthours
+2025-12-15T14,US48,United States Lower 48,D,Demand,622984,megawatthours
+2025-12-15T14,US48,United States Lower 48,DF,Day-ahead demand forecast,613571,megawatthours
+2025-12-15T15,US48,United States Lower 48,D,Demand,619244,megawatthours
+2025-12-15T15,US48,United States Lower 48,DF,Day-ahead demand forecast,606363,megawatthours
+2025-12-15T16,US48,United States Lower 48,D,Demand,606785,megawatthours
+2025-12-15T16,US48,United States Lower 48,DF,Day-ahead demand forecast,592238,megawatthours
+2025-12-15T17,US48,United States Lower 48,D,Demand,594052,megawatthours
+2025-12-15T17,US48,United States Lower 48,DF,Day-ahead demand forecast,576249,megawatthours
+2025-12-15T18,US48,United States Lower 48,D,Demand,569748,megawatthours
+2025-12-15T18,US48,United States Lower 48,DF,Day-ahead demand forecast,561108,megawatthours
+2025-12-15T19,US48,United States Lower 48,D,Demand,568303,megawatthours
+2025-12-15T19,US48,United States Lower 48,DF,Day-ahead demand forecast,548347,megawatthours
+2025-12-15T20,US48,United States Lower 48,D,Demand,558812,megawatthours
+2025-12-15T20,US48,United States Lower 48,DF,Day-ahead demand forecast,540618,megawatthours
+2025-12-15T21,US48,United States Lower 48,D,Demand,555537,megawatthours
+2025-12-15T21,US48,United States Lower 48,DF,Day-ahead demand forecast,539739,megawatthours
+2025-12-15T22,US48,United States Lower 48,D,Demand,559589,megawatthours
+2025-12-15T22,US48,United States Lower 48,DF,Day-ahead demand forecast,550660,megawatthours
+2025-12-15T23,US48,United States Lower 48,D,Demand,574965,megawatthours
+2025-12-15T23,US48,United States Lower 48,DF,Day-ahead demand forecast,567243,megawatthours
+2025-12-16T00,US48,United States Lower 48,D,Demand,588144,megawatthours
+2025-12-16T00,US48,United States Lower 48,DF,Day-ahead demand forecast,583139,megawatthours
+2025-12-16T01,US48,United States Lower 48,D,Demand,595466,megawatthours
+2025-12-16T01,US48,United States Lower 48,DF,Day-ahead demand forecast,591586,megawatthours
+2025-12-16T02,US48,United States Lower 48,D,Demand,595547,megawatthours
+2025-12-16T02,US48,United States Lower 48,DF,Day-ahead demand forecast,589954,megawatthours
+2025-12-16T03,US48,United States Lower 48,D,Demand,585865,megawatthours
+2025-12-16T03,US48,United States Lower 48,DF,Day-ahead demand forecast,578514,megawatthours
+2025-12-16T04,US48,United States Lower 48,D,Demand,569351,megawatthours
+2025-12-16T04,US48,United States Lower 48,DF,Day-ahead demand forecast,561985,megawatthours
+2025-12-16T05,US48,United States Lower 48,D,Demand,552012,megawatthours
+2025-12-16T05,US48,United States Lower 48,DF,Day-ahead demand forecast,542587,megawatthours
+2025-12-16T06,US48,United States Lower 48,D,Demand,536824,megawatthours
+2025-12-16T06,US48,United States Lower 48,DF,Day-ahead demand forecast,530699,megawatthours
+2025-12-16T07,US48,United States Lower 48,D,Demand,525207,megawatthours
+2025-12-16T07,US48,United States Lower 48,DF,Day-ahead demand forecast,518328,megawatthours
+2025-12-16T08,US48,United States Lower 48,D,Demand,517794,megawatthours
+2025-12-16T08,US48,United States Lower 48,DF,Day-ahead demand forecast,512520,megawatthours
+2025-12-16T09,US48,United States Lower 48,D,Demand,516395,megawatthours
+2025-12-16T09,US48,United States Lower 48,DF,Day-ahead demand forecast,512679,megawatthours
+2025-12-16T10,US48,United States Lower 48,D,Demand,518938,megawatthours
+2025-12-16T10,US48,United States Lower 48,DF,Day-ahead demand forecast,520580,megawatthours
+2025-12-16T11,US48,United States Lower 48,D,Demand,531656,megawatthours
+2025-12-16T11,US48,United States Lower 48,DF,Day-ahead demand forecast,538367,megawatthours
+2025-12-16T12,US48,United States Lower 48,D,Demand,557293,megawatthours
+2025-12-16T12,US48,United States Lower 48,DF,Day-ahead demand forecast,562871,megawatthours
+2025-12-16T13,US48,United States Lower 48,D,Demand,579767,megawatthours
+2025-12-16T13,US48,United States Lower 48,DF,Day-ahead demand forecast,581741,megawatthours
+2025-12-16T14,US48,United States Lower 48,D,Demand,585621,megawatthours
+2025-12-16T14,US48,United States Lower 48,DF,Day-ahead demand forecast,583553,megawatthours
+2025-12-16T15,US48,United States Lower 48,D,Demand,574858,megawatthours
+2025-12-16T15,US48,United States Lower 48,DF,Day-ahead demand forecast,570925,megawatthours
+2025-12-16T16,US48,United States Lower 48,D,Demand,560965,megawatthours
+2025-12-16T16,US48,United States Lower 48,DF,Day-ahead demand forecast,553459,megawatthours
+2025-12-16T17,US48,United States Lower 48,D,Demand,543071,megawatthours
+2025-12-16T17,US48,United States Lower 48,DF,Day-ahead demand forecast,536813,megawatthours
+2025-12-16T18,US48,United States Lower 48,D,Demand,533616,megawatthours
+2025-12-16T18,US48,United States Lower 48,DF,Day-ahead demand forecast,521968,megawatthours
+2025-12-16T19,US48,United States Lower 48,D,Demand,523010,megawatthours
+2025-12-16T19,US48,United States Lower 48,DF,Day-ahead demand forecast,511859,megawatthours
+2025-12-16T20,US48,United States Lower 48,D,Demand,517746,megawatthours
+2025-12-16T20,US48,United States Lower 48,DF,Day-ahead demand forecast,507564,megawatthours
+2025-12-16T21,US48,United States Lower 48,D,Demand,516583,megawatthours
+2025-12-16T21,US48,United States Lower 48,DF,Day-ahead demand forecast,509728,megawatthours
+2025-12-16T22,US48,United States Lower 48,D,Demand,522476,megawatthours
+2025-12-16T22,US48,United States Lower 48,DF,Day-ahead demand forecast,521359,megawatthours
+2025-12-16T23,US48,United States Lower 48,D,Demand,538246,megawatthours
+2025-12-16T23,US48,United States Lower 48,DF,Day-ahead demand forecast,538787,megawatthours
+2025-12-17T00,US48,United States Lower 48,D,Demand,549407,megawatthours
+2025-12-17T00,US48,United States Lower 48,DF,Day-ahead demand forecast,552482,megawatthours
+2025-12-17T01,US48,United States Lower 48,D,Demand,553655,megawatthours
+2025-12-17T01,US48,United States Lower 48,DF,Day-ahead demand forecast,558517,megawatthours
+2025-12-17T02,US48,United States Lower 48,D,Demand,552047,megawatthours
+2025-12-17T02,US48,United States Lower 48,DF,Day-ahead demand forecast,555596,megawatthours
+2025-12-17T03,US48,United States Lower 48,D,Demand,544105,megawatthours
+2025-12-17T03,US48,United States Lower 48,DF,Day-ahead demand forecast,544555,megawatthours
+2025-12-17T04,US48,United States Lower 48,D,Demand,527856,megawatthours
+2025-12-17T04,US48,United States Lower 48,DF,Day-ahead demand forecast,528741,megawatthours
+2025-12-17T05,US48,United States Lower 48,D,Demand,508455,megawatthours
+2025-12-17T05,US48,United States Lower 48,DF,Day-ahead demand forecast,507540,megawatthours
+2025-12-17T06,US48,United States Lower 48,D,Demand,491687,megawatthours
+2025-12-17T06,US48,United States Lower 48,DF,Day-ahead demand forecast,490717,megawatthours
+2025-12-17T07,US48,United States Lower 48,D,Demand,478961,megawatthours
+2025-12-17T07,US48,United States Lower 48,DF,Day-ahead demand forecast,477396,megawatthours
+2025-12-17T08,US48,United States Lower 48,D,Demand,470140,megawatthours
+2025-12-17T08,US48,United States Lower 48,DF,Day-ahead demand forecast,469831,megawatthours
+2025-12-17T09,US48,United States Lower 48,D,Demand,465702,megawatthours
+2025-12-17T09,US48,United States Lower 48,DF,Day-ahead demand forecast,467983,megawatthours
+2025-12-17T10,US48,United States Lower 48,D,Demand,465277,megawatthours
+2025-12-17T10,US48,United States Lower 48,DF,Day-ahead demand forecast,474142,megawatthours
+2025-12-17T11,US48,United States Lower 48,D,Demand,476857,megawatthours
+2025-12-17T11,US48,United States Lower 48,DF,Day-ahead demand forecast,489824,megawatthours
+2025-12-17T12,US48,United States Lower 48,D,Demand,499860,megawatthours
+2025-12-17T12,US48,United States Lower 48,DF,Day-ahead demand forecast,512316,megawatthours
+2025-12-17T13,US48,United States Lower 48,D,Demand,520332,megawatthours
+2025-12-17T13,US48,United States Lower 48,DF,Day-ahead demand forecast,531561,megawatthours
+2025-12-17T14,US48,United States Lower 48,D,Demand,528158,megawatthours
+2025-12-17T14,US48,United States Lower 48,DF,Day-ahead demand forecast,536124,megawatthours
+2025-12-17T15,US48,United States Lower 48,D,Demand,526522,megawatthours
+2025-12-17T15,US48,United States Lower 48,DF,Day-ahead demand forecast,531446,megawatthours
+2025-12-17T16,US48,United States Lower 48,D,Demand,520447,megawatthours
+2025-12-17T16,US48,United States Lower 48,DF,Day-ahead demand forecast,521487,megawatthours
+2025-12-17T17,US48,United States Lower 48,D,Demand,513035,megawatthours
+2025-12-17T17,US48,United States Lower 48,DF,Day-ahead demand forecast,510928,megawatthours
+2025-12-17T18,US48,United States Lower 48,D,Demand,505033,megawatthours
+2025-12-17T18,US48,United States Lower 48,DF,Day-ahead demand forecast,501337,megawatthours
+2025-12-17T19,US48,United States Lower 48,D,Demand,498609,megawatthours
+2025-12-17T19,US48,United States Lower 48,DF,Day-ahead demand forecast,493826,megawatthours
+2025-12-17T20,US48,United States Lower 48,D,Demand,496082,megawatthours
+2025-12-17T20,US48,United States Lower 48,DF,Day-ahead demand forecast,491351,megawatthours
+2025-12-17T21,US48,United States Lower 48,D,Demand,495738,megawatthours
+2025-12-17T21,US48,United States Lower 48,DF,Day-ahead demand forecast,493284,megawatthours
+2025-12-17T22,US48,United States Lower 48,D,Demand,499788,megawatthours
+2025-12-17T22,US48,United States Lower 48,DF,Day-ahead demand forecast,502614,megawatthours
+2025-12-17T23,US48,United States Lower 48,D,Demand,511873,megawatthours
+2025-12-17T23,US48,United States Lower 48,DF,Day-ahead demand forecast,516264,megawatthours
+2025-12-18T00,US48,United States Lower 48,D,Demand,519209,megawatthours
+2025-12-18T00,US48,United States Lower 48,DF,Day-ahead demand forecast,526449,megawatthours
+2025-12-18T01,US48,United States Lower 48,D,Demand,522893,megawatthours
+2025-12-18T01,US48,United States Lower 48,DF,Day-ahead demand forecast,529092,megawatthours
+2025-12-18T02,US48,United States Lower 48,D,Demand,522902,megawatthours
+2025-12-18T02,US48,United States Lower 48,DF,Day-ahead demand forecast,524752,megawatthours
+2025-12-18T03,US48,United States Lower 48,D,Demand,514012,megawatthours
+2025-12-18T03,US48,United States Lower 48,DF,Day-ahead demand forecast,512213,megawatthours
+2025-12-18T04,US48,United States Lower 48,D,Demand,499073,megawatthours
+2025-12-18T04,US48,United States Lower 48,DF,Day-ahead demand forecast,495032,megawatthours
+2025-12-18T05,US48,United States Lower 48,D,Demand,482763,megawatthours
+2025-12-18T05,US48,United States Lower 48,DF,Day-ahead demand forecast,476042,megawatthours
+2025-12-18T06,US48,United States Lower 48,D,Demand,466601,megawatthours
+2025-12-18T06,US48,United States Lower 48,DF,Day-ahead demand forecast,455708,megawatthours
+2025-12-18T07,US48,United States Lower 48,D,Demand,454497,megawatthours
+2025-12-18T07,US48,United States Lower 48,DF,Day-ahead demand forecast,442385,megawatthours
+2025-12-18T08,US48,United States Lower 48,D,Demand,445372,megawatthours
+2025-12-18T08,US48,United States Lower 48,DF,Day-ahead demand forecast,434071,megawatthours
+2025-12-18T09,US48,United States Lower 48,D,Demand,441788,megawatthours
+2025-12-18T09,US48,United States Lower 48,DF,Day-ahead demand forecast,432411,megawatthours
+2025-12-18T10,US48,United States Lower 48,D,Demand,441620,megawatthours
+2025-12-18T10,US48,United States Lower 48,DF,Day-ahead demand forecast,437183,megawatthours
+2025-12-18T11,US48,United States Lower 48,D,Demand,451308,megawatthours
+2025-12-18T11,US48,United States Lower 48,DF,Day-ahead demand forecast,452941,megawatthours
+2025-12-18T12,US48,United States Lower 48,D,Demand,473193,megawatthours
+2025-12-18T12,US48,United States Lower 48,DF,Day-ahead demand forecast,474022,megawatthours
+2025-12-18T13,US48,United States Lower 48,D,Demand,494728,megawatthours
+2025-12-18T13,US48,United States Lower 48,DF,Day-ahead demand forecast,492920,megawatthours
+2025-12-18T14,US48,United States Lower 48,D,Demand,502277,megawatthours
+2025-12-18T14,US48,United States Lower 48,DF,Day-ahead demand forecast,500711,megawatthours
+2025-12-18T15,US48,United States Lower 48,D,Demand,502384,megawatthours
+2025-12-18T15,US48,United States Lower 48,DF,Day-ahead demand forecast,501805,megawatthours
+2025-12-18T16,US48,United States Lower 48,D,Demand,500246,megawatthours
+2025-12-18T16,US48,United States Lower 48,DF,Day-ahead demand forecast,498584,megawatthours
+2025-12-18T17,US48,United States Lower 48,D,Demand,496966,megawatthours
+2025-12-18T17,US48,United States Lower 48,DF,Day-ahead demand forecast,494879,megawatthours
+2025-12-18T18,US48,United States Lower 48,D,Demand,494608,megawatthours
+2025-12-18T18,US48,United States Lower 48,DF,Day-ahead demand forecast,491160,megawatthours
+2025-12-18T19,US48,United States Lower 48,D,Demand,494421,megawatthours
+2025-12-18T19,US48,United States Lower 48,DF,Day-ahead demand forecast,489092,megawatthours
+2025-12-18T20,US48,United States Lower 48,D,Demand,496061,megawatthours
+2025-12-18T20,US48,United States Lower 48,DF,Day-ahead demand forecast,490390,megawatthours
+2025-12-18T21,US48,United States Lower 48,D,Demand,499055,megawatthours
+2025-12-18T21,US48,United States Lower 48,DF,Day-ahead demand forecast,495325,megawatthours
+2025-12-18T22,US48,United States Lower 48,D,Demand,505749,megawatthours
+2025-12-18T22,US48,United States Lower 48,DF,Day-ahead demand forecast,504469,megawatthours
+2025-12-18T23,US48,United States Lower 48,D,Demand,515802,megawatthours
+2025-12-18T23,US48,United States Lower 48,DF,Day-ahead demand forecast,514569,megawatthours
+2025-12-19T00,US48,United States Lower 48,D,Demand,517328,megawatthours
+2025-12-19T00,US48,United States Lower 48,DF,Day-ahead demand forecast,521638,megawatthours
+2025-12-19T01,US48,United States Lower 48,D,Demand,518461,megawatthours
+2025-12-19T01,US48,United States Lower 48,DF,Day-ahead demand forecast,522933,megawatthours
+2025-12-19T02,US48,United States Lower 48,D,Demand,515358,megawatthours
+2025-12-19T02,US48,United States Lower 48,DF,Day-ahead demand forecast,517555,megawatthours
+2025-12-19T03,US48,United States Lower 48,D,Demand,505002,megawatthours
+2025-12-19T03,US48,United States Lower 48,DF,Day-ahead demand forecast,504034,megawatthours
+2025-12-19T04,US48,United States Lower 48,D,Demand,491512,megawatthours
+2025-12-19T04,US48,United States Lower 48,DF,Day-ahead demand forecast,487651,megawatthours
+2025-12-19T05,US48,United States Lower 48,D,Demand,474298,megawatthours
+2025-12-19T05,US48,United States Lower 48,DF,Day-ahead demand forecast,469042,megawatthours
+2025-12-19T06,US48,United States Lower 48,D,Demand,457839,megawatthours
+2025-12-19T06,US48,United States Lower 48,DF,Day-ahead demand forecast,450167,megawatthours
+2025-12-19T07,US48,United States Lower 48,D,Demand,440334,megawatthours
+2025-12-19T07,US48,United States Lower 48,DF,Day-ahead demand forecast,434784,megawatthours
+2025-12-19T08,US48,United States Lower 48,D,Demand,432462,megawatthours
+2025-12-19T08,US48,United States Lower 48,DF,Day-ahead demand forecast,428209,megawatthours
+2025-12-19T09,US48,United States Lower 48,D,Demand,432614,megawatthours
+2025-12-19T09,US48,United States Lower 48,DF,Day-ahead demand forecast,426729,megawatthours
+2025-12-19T10,US48,United States Lower 48,D,Demand,434961,megawatthours
+2025-12-19T10,US48,United States Lower 48,DF,Day-ahead demand forecast,432468,megawatthours
+2025-12-19T11,US48,United States Lower 48,D,Demand,446024,megawatthours
+2025-12-19T11,US48,United States Lower 48,DF,Day-ahead demand forecast,448027,megawatthours
+2025-12-19T12,US48,United States Lower 48,D,Demand,468759,megawatthours
+2025-12-19T12,US48,United States Lower 48,DF,Day-ahead demand forecast,471804,megawatthours
+2025-12-19T13,US48,United States Lower 48,D,Demand,493195,megawatthours
+2025-12-19T13,US48,United States Lower 48,DF,Day-ahead demand forecast,494809,megawatthours
+2025-12-19T14,US48,United States Lower 48,D,Demand,509285,megawatthours
+2025-12-19T14,US48,United States Lower 48,DF,Day-ahead demand forecast,508588,megawatthours
+2025-12-19T15,US48,United States Lower 48,D,Demand,517002,megawatthours
+2025-12-19T15,US48,United States Lower 48,DF,Day-ahead demand forecast,514024,megawatthours
+2025-12-19T16,US48,United States Lower 48,D,Demand,517340,megawatthours
+2025-12-19T16,US48,United States Lower 48,DF,Day-ahead demand forecast,512625,megawatthours
+2025-12-19T17,US48,United States Lower 48,D,Demand,514310,megawatthours
+2025-12-19T17,US48,United States Lower 48,DF,Day-ahead demand forecast,507732,megawatthours
+2025-12-19T18,US48,United States Lower 48,D,Demand,510062,megawatthours
+2025-12-19T18,US48,United States Lower 48,DF,Day-ahead demand forecast,501794,megawatthours
+2025-12-19T19,US48,United States Lower 48,D,Demand,504912,megawatthours
+2025-12-19T19,US48,United States Lower 48,DF,Day-ahead demand forecast,496962,megawatthours
+2025-12-19T20,US48,United States Lower 48,D,Demand,501716,megawatthours
+2025-12-19T20,US48,United States Lower 48,DF,Day-ahead demand forecast,494957,megawatthours
+2025-12-19T21,US48,United States Lower 48,D,Demand,502767,megawatthours
+2025-12-19T21,US48,United States Lower 48,DF,Day-ahead demand forecast,496478,megawatthours
+2025-12-19T22,US48,United States Lower 48,D,Demand,509905,megawatthours
+2025-12-19T22,US48,United States Lower 48,DF,Day-ahead demand forecast,504962,megawatthours
+2025-12-19T23,US48,United States Lower 48,D,Demand,522875,megawatthours
+2025-12-19T23,US48,United States Lower 48,DF,Day-ahead demand forecast,515848,megawatthours
+2025-12-20T00,US48,United States Lower 48,D,Demand,528308,megawatthours
+2025-12-20T00,US48,United States Lower 48,DF,Day-ahead demand forecast,523757,megawatthours
+2025-12-20T01,US48,United States Lower 48,D,Demand,530122,megawatthours
+2025-12-20T01,US48,United States Lower 48,DF,Day-ahead demand forecast,526351,megawatthours
+2025-12-20T02,US48,United States Lower 48,D,Demand,528565,megawatthours
+2025-12-20T02,US48,United States Lower 48,DF,Day-ahead demand forecast,523464,megawatthours
+2025-12-20T03,US48,United States Lower 48,D,Demand,521662,megawatthours
+2025-12-20T03,US48,United States Lower 48,DF,Day-ahead demand forecast,515076,megawatthours
+2025-12-20T04,US48,United States Lower 48,D,Demand,512293,megawatthours
+2025-12-20T04,US48,United States Lower 48,DF,Day-ahead demand forecast,502659,megawatthours
+2025-12-20T05,US48,United States Lower 48,D,Demand,498887,megawatthours
+2025-12-20T05,US48,United States Lower 48,DF,Day-ahead demand forecast,488900,megawatthours
+2025-12-20T06,US48,United States Lower 48,D,Demand,486158,megawatthours
+2025-12-20T06,US48,United States Lower 48,DF,Day-ahead demand forecast,473559,megawatthours
+2025-12-20T07,US48,United States Lower 48,D,Demand,475637,megawatthours
+2025-12-20T07,US48,United States Lower 48,DF,Day-ahead demand forecast,462045,megawatthours
+2025-12-20T08,US48,United States Lower 48,D,Demand,468388,megawatthours
+2025-12-20T08,US48,United States Lower 48,DF,Day-ahead demand forecast,454725,megawatthours
+2025-12-20T09,US48,United States Lower 48,D,Demand,465412,megawatthours
+2025-12-20T09,US48,United States Lower 48,DF,Day-ahead demand forecast,451522,megawatthours
+2025-12-20T10,US48,United States Lower 48,D,Demand,465182,megawatthours
+2025-12-20T10,US48,United States Lower 48,DF,Day-ahead demand forecast,452764,megawatthours
+2025-12-20T11,US48,United States Lower 48,D,Demand,469250,megawatthours
+2025-12-20T11,US48,United States Lower 48,DF,Day-ahead demand forecast,459120,megawatthours
+2025-12-20T12,US48,United States Lower 48,D,Demand,480495,megawatthours
+2025-12-20T12,US48,United States Lower 48,DF,Day-ahead demand forecast,469848,megawatthours
+2025-12-20T13,US48,United States Lower 48,D,Demand,495342,megawatthours
+2025-12-20T13,US48,United States Lower 48,DF,Day-ahead demand forecast,481710,megawatthours
+2025-12-20T14,US48,United States Lower 48,D,Demand,505535,megawatthours
+2025-12-20T14,US48,United States Lower 48,DF,Day-ahead demand forecast,487956,megawatthours
+2025-12-20T15,US48,United States Lower 48,D,Demand,503781,megawatthours
+2025-12-20T15,US48,United States Lower 48,DF,Day-ahead demand forecast,486617,megawatthours
+2025-12-20T16,US48,United States Lower 48,D,Demand,497067,megawatthours
+2025-12-20T16,US48,United States Lower 48,DF,Day-ahead demand forecast,480777,megawatthours
+2025-12-20T17,US48,United States Lower 48,D,Demand,491301,megawatthours
+2025-12-20T17,US48,United States Lower 48,DF,Day-ahead demand forecast,473303,megawatthours
+2025-12-20T18,US48,United States Lower 48,D,Demand,486207,megawatthours
+2025-12-20T18,US48,United States Lower 48,DF,Day-ahead demand forecast,466093,megawatthours
+2025-12-20T19,US48,United States Lower 48,D,Demand,480862,megawatthours
+2025-12-20T19,US48,United States Lower 48,DF,Day-ahead demand forecast,460830,megawatthours
+2025-12-20T20,US48,United States Lower 48,D,Demand,476470,megawatthours
+2025-12-20T20,US48,United States Lower 48,DF,Day-ahead demand forecast,459842,megawatthours
+2025-12-20T21,US48,United States Lower 48,D,Demand,469533,megawatthours
+2025-12-20T21,US48,United States Lower 48,DF,Day-ahead demand forecast,462226,megawatthours
+2025-12-20T22,US48,United States Lower 48,D,Demand,474980,megawatthours
+2025-12-20T22,US48,United States Lower 48,DF,Day-ahead demand forecast,472209,megawatthours
+2025-12-20T23,US48,United States Lower 48,D,Demand,487652,megawatthours
+2025-12-20T23,US48,United States Lower 48,DF,Day-ahead demand forecast,483060,megawatthours
+2025-12-21T00,US48,United States Lower 48,D,Demand,494024,megawatthours
+2025-12-21T00,US48,United States Lower 48,DF,Day-ahead demand forecast,492085,megawatthours
+2025-12-21T01,US48,United States Lower 48,D,Demand,496604,megawatthours
+2025-12-21T01,US48,United States Lower 48,DF,Day-ahead demand forecast,494458,megawatthours
+2025-12-21T02,US48,United States Lower 48,D,Demand,495419,megawatthours
+2025-12-21T02,US48,United States Lower 48,DF,Day-ahead demand forecast,492117,megawatthours
+2025-12-21T03,US48,United States Lower 48,D,Demand,489910,megawatthours
+2025-12-21T03,US48,United States Lower 48,DF,Day-ahead demand forecast,484198,megawatthours
+2025-12-21T04,US48,United States Lower 48,D,Demand,481481,megawatthours
+2025-12-21T04,US48,United States Lower 48,DF,Day-ahead demand forecast,473129,megawatthours
+2025-12-21T05,US48,United States Lower 48,D,Demand,469071,megawatthours
+2025-12-21T05,US48,United States Lower 48,DF,Day-ahead demand forecast,461264,megawatthours
+2025-12-21T06,US48,United States Lower 48,D,Demand,459333,megawatthours
+2025-12-21T06,US48,United States Lower 48,DF,Day-ahead demand forecast,448523,megawatthours
+2025-12-21T07,US48,United States Lower 48,D,Demand,447839,megawatthours
+2025-12-21T07,US48,United States Lower 48,DF,Day-ahead demand forecast,437104,megawatthours
+2025-12-21T08,US48,United States Lower 48,D,Demand,438818,megawatthours
+2025-12-21T08,US48,United States Lower 48,DF,Day-ahead demand forecast,429326,megawatthours
+2025-12-21T09,US48,United States Lower 48,D,Demand,436890,megawatthours
+2025-12-21T09,US48,United States Lower 48,DF,Day-ahead demand forecast,430326,megawatthours
+2025-12-21T10,US48,United States Lower 48,D,Demand,434969,megawatthours
+2025-12-21T10,US48,United States Lower 48,DF,Day-ahead demand forecast,430426,megawatthours
+2025-12-21T11,US48,United States Lower 48,D,Demand,436522,megawatthours
+2025-12-21T11,US48,United States Lower 48,DF,Day-ahead demand forecast,435484,megawatthours
+2025-12-21T12,US48,United States Lower 48,D,Demand,444596,megawatthours
+2025-12-21T12,US48,United States Lower 48,DF,Day-ahead demand forecast,444676,megawatthours
+2025-12-21T13,US48,United States Lower 48,D,Demand,456664,megawatthours
+2025-12-21T13,US48,United States Lower 48,DF,Day-ahead demand forecast,456153,megawatthours
+2025-12-21T14,US48,United States Lower 48,D,Demand,466159,megawatthours
+2025-12-21T14,US48,United States Lower 48,DF,Day-ahead demand forecast,465498,megawatthours
+2025-12-21T15,US48,United States Lower 48,D,Demand,468398,megawatthours
+2025-12-21T15,US48,United States Lower 48,DF,Day-ahead demand forecast,467623,megawatthours
+2025-12-21T16,US48,United States Lower 48,D,Demand,468311,megawatthours
+2025-12-21T16,US48,United States Lower 48,DF,Day-ahead demand forecast,464834,megawatthours
+2025-12-21T17,US48,United States Lower 48,D,Demand,467471,megawatthours
+2025-12-21T17,US48,United States Lower 48,DF,Day-ahead demand forecast,462012,megawatthours
+2025-12-21T18,US48,United States Lower 48,D,Demand,467702,megawatthours
+2025-12-21T18,US48,United States Lower 48,DF,Day-ahead demand forecast,459670,megawatthours
+2025-12-21T19,US48,United States Lower 48,D,Demand,467783,megawatthours
+2025-12-21T19,US48,United States Lower 48,DF,Day-ahead demand forecast,458508,megawatthours
+2025-12-21T20,US48,United States Lower 48,D,Demand,467986,megawatthours
+2025-12-21T20,US48,United States Lower 48,DF,Day-ahead demand forecast,460871,megawatthours
+2025-12-21T21,US48,United States Lower 48,D,Demand,469829,megawatthours
+2025-12-21T21,US48,United States Lower 48,DF,Day-ahead demand forecast,467741,megawatthours
+2025-12-21T22,US48,United States Lower 48,D,Demand,478471,megawatthours
+2025-12-21T22,US48,United States Lower 48,DF,Day-ahead demand forecast,480653,megawatthours
+2025-12-21T23,US48,United States Lower 48,D,Demand,494237,megawatthours
+2025-12-21T23,US48,United States Lower 48,DF,Day-ahead demand forecast,495488,megawatthours
+2025-12-22T00,US48,United States Lower 48,D,Demand,504454,megawatthours
+2025-12-22T00,US48,United States Lower 48,DF,Day-ahead demand forecast,507426,megawatthours
+2025-12-22T01,US48,United States Lower 48,D,Demand,508724,megawatthours
+2025-12-22T01,US48,United States Lower 48,DF,Day-ahead demand forecast,512179,megawatthours
+2025-12-22T02,US48,United States Lower 48,D,Demand,509193,megawatthours
+2025-12-22T02,US48,United States Lower 48,DF,Day-ahead demand forecast,510371,megawatthours
+2025-12-22T03,US48,United States Lower 48,D,Demand,502215,megawatthours
+2025-12-22T03,US48,United States Lower 48,DF,Day-ahead demand forecast,500824,megawatthours
+2025-12-22T04,US48,United States Lower 48,D,Demand,491362,megawatthours
+2025-12-22T04,US48,United States Lower 48,DF,Day-ahead demand forecast,487506,megawatthours
+2025-12-22T05,US48,United States Lower 48,D,Demand,478073,megawatthours
+2025-12-22T05,US48,United States Lower 48,DF,Day-ahead demand forecast,473250,megawatthours
+2025-12-22T06,US48,United States Lower 48,D,Demand,463841,megawatthours
+2025-12-22T06,US48,United States Lower 48,DF,Day-ahead demand forecast,453436,megawatthours
+2025-12-22T07,US48,United States Lower 48,D,Demand,446763,megawatthours
+2025-12-22T07,US48,United States Lower 48,DF,Day-ahead demand forecast,441874,megawatthours
+2025-12-22T08,US48,United States Lower 48,D,Demand,439605,megawatthours
+2025-12-22T08,US48,United States Lower 48,DF,Day-ahead demand forecast,437356,megawatthours
+2025-12-22T09,US48,United States Lower 48,D,Demand,439141,megawatthours
+2025-12-22T09,US48,United States Lower 48,DF,Day-ahead demand forecast,437140,megawatthours
+2025-12-22T10,US48,United States Lower 48,D,Demand,442147,megawatthours
+2025-12-22T10,US48,United States Lower 48,DF,Day-ahead demand forecast,444469,megawatthours
+2025-12-22T11,US48,United States Lower 48,D,Demand,454037,megawatthours
+2025-12-22T11,US48,United States Lower 48,DF,Day-ahead demand forecast,460628,megawatthours
+2025-12-22T12,US48,United States Lower 48,D,Demand,474221,megawatthours
+2025-12-22T12,US48,United States Lower 48,DF,Day-ahead demand forecast,483382,megawatthours
+2025-12-22T13,US48,United States Lower 48,D,Demand,494613,megawatthours
+2025-12-22T13,US48,United States Lower 48,DF,Day-ahead demand forecast,501983,megawatthours
+2025-12-22T14,US48,United States Lower 48,D,Demand,503392,megawatthours
+2025-12-22T14,US48,United States Lower 48,DF,Day-ahead demand forecast,509599,megawatthours
+2025-12-22T15,US48,United States Lower 48,D,Demand,500461,megawatthours
+2025-12-22T15,US48,United States Lower 48,DF,Day-ahead demand forecast,508009,megawatthours
+2025-12-22T16,US48,United States Lower 48,D,Demand,495917,megawatthours
+2025-12-22T16,US48,United States Lower 48,DF,Day-ahead demand forecast,502887,megawatthours
+2025-12-22T17,US48,United States Lower 48,D,Demand,493758,megawatthours
+2025-12-22T17,US48,United States Lower 48,DF,Day-ahead demand forecast,496796,megawatthours
+2025-12-22T18,US48,United States Lower 48,D,Demand,491272,megawatthours
+2025-12-22T18,US48,United States Lower 48,DF,Day-ahead demand forecast,491869,megawatthours
+2025-12-22T19,US48,United States Lower 48,D,Demand,485675,megawatthours
+2025-12-22T19,US48,United States Lower 48,DF,Day-ahead demand forecast,488781,megawatthours
+2025-12-22T20,US48,United States Lower 48,D,Demand,490255,megawatthours
+2025-12-22T20,US48,United States Lower 48,DF,Day-ahead demand forecast,489546,megawatthours
+2025-12-22T21,US48,United States Lower 48,D,Demand,489015,megawatthours
+2025-12-22T21,US48,United States Lower 48,DF,Day-ahead demand forecast,493747,megawatthours
+2025-12-22T22,US48,United States Lower 48,D,Demand,496696,megawatthours
+2025-12-22T22,US48,United States Lower 48,DF,Day-ahead demand forecast,504404,megawatthours
+2025-12-22T23,US48,United States Lower 48,D,Demand,508641,megawatthours
+2025-12-22T23,US48,United States Lower 48,DF,Day-ahead demand forecast,515802,megawatthours
+2025-12-23T00,US48,United States Lower 48,D,Demand,516421,megawatthours
+2025-12-23T00,US48,United States Lower 48,DF,Day-ahead demand forecast,524757,megawatthours
+2025-12-23T01,US48,United States Lower 48,D,Demand,517585,megawatthours
+2025-12-23T01,US48,United States Lower 48,DF,Day-ahead demand forecast,526190,megawatthours
+2025-12-23T02,US48,United States Lower 48,D,Demand,512885,megawatthours
+2025-12-23T02,US48,United States Lower 48,DF,Day-ahead demand forecast,521283,megawatthours
+2025-12-23T03,US48,United States Lower 48,D,Demand,501779,megawatthours
+2025-12-23T03,US48,United States Lower 48,DF,Day-ahead demand forecast,508208,megawatthours
+2025-12-23T04,US48,United States Lower 48,D,Demand,487527,megawatthours
+2025-12-23T04,US48,United States Lower 48,DF,Day-ahead demand forecast,490942,megawatthours
+2025-12-23T05,US48,United States Lower 48,D,Demand,470753,megawatthours
+2025-12-23T05,US48,United States Lower 48,DF,Day-ahead demand forecast,471327,megawatthours
+2025-12-23T06,US48,United States Lower 48,D,Demand,453604,megawatthours
+2025-12-23T06,US48,United States Lower 48,DF,Day-ahead demand forecast,453101,megawatthours
+2025-12-23T07,US48,United States Lower 48,D,Demand,436501,megawatthours
+2025-12-23T07,US48,United States Lower 48,DF,Day-ahead demand forecast,437483,megawatthours
+2025-12-23T08,US48,United States Lower 48,D,Demand,426154,megawatthours
+2025-12-23T08,US48,United States Lower 48,DF,Day-ahead demand forecast,427977,megawatthours
+2025-12-23T09,US48,United States Lower 48,D,Demand,419069,megawatthours
+2025-12-23T09,US48,United States Lower 48,DF,Day-ahead demand forecast,424855,megawatthours
+2025-12-23T10,US48,United States Lower 48,D,Demand,418780,megawatthours
+2025-12-23T10,US48,United States Lower 48,DF,Day-ahead demand forecast,429169,megawatthours
+2025-12-23T11,US48,United States Lower 48,D,Demand,426371,megawatthours
+2025-12-23T11,US48,United States Lower 48,DF,Day-ahead demand forecast,441981,megawatthours
+2025-12-23T12,US48,United States Lower 48,D,Demand,441891,megawatthours
+2025-12-23T12,US48,United States Lower 48,DF,Day-ahead demand forecast,460760,megawatthours
+2025-12-23T13,US48,United States Lower 48,D,Demand,461798,megawatthours
+2025-12-23T13,US48,United States Lower 48,DF,Day-ahead demand forecast,478654,megawatthours
+2025-12-23T14,US48,United States Lower 48,D,Demand,476200,megawatthours
+2025-12-23T14,US48,United States Lower 48,DF,Day-ahead demand forecast,488834,megawatthours
+2025-12-23T15,US48,United States Lower 48,D,Demand,484774,megawatthours
+2025-12-23T15,US48,United States Lower 48,DF,Day-ahead demand forecast,493727,megawatthours
+2025-12-23T16,US48,United States Lower 48,D,Demand,488560,megawatthours
+2025-12-23T16,US48,United States Lower 48,DF,Day-ahead demand forecast,494282,megawatthours
+2025-12-23T17,US48,United States Lower 48,D,Demand,488581,megawatthours
+2025-12-23T17,US48,United States Lower 48,DF,Day-ahead demand forecast,492668,megawatthours
+2025-12-23T18,US48,United States Lower 48,D,Demand,487702,megawatthours
+2025-12-23T18,US48,United States Lower 48,DF,Day-ahead demand forecast,490037,megawatthours
+2025-12-23T19,US48,United States Lower 48,D,Demand,486799,megawatthours
+2025-12-23T19,US48,United States Lower 48,DF,Day-ahead demand forecast,487518,megawatthours
+2025-12-23T20,US48,United States Lower 48,D,Demand,484242,megawatthours
+2025-12-23T20,US48,United States Lower 48,DF,Day-ahead demand forecast,486099,megawatthours
+2025-12-23T21,US48,United States Lower 48,D,Demand,483277,megawatthours
+2025-12-23T21,US48,United States Lower 48,DF,Day-ahead demand forecast,488606,megawatthours
+2025-12-23T22,US48,United States Lower 48,D,Demand,486441,megawatthours
+2025-12-23T22,US48,United States Lower 48,DF,Day-ahead demand forecast,495806,megawatthours
+2025-12-23T23,US48,United States Lower 48,D,Demand,493535,megawatthours
+2025-12-23T23,US48,United States Lower 48,DF,Day-ahead demand forecast,503639,megawatthours
+2025-12-24T00,US48,United States Lower 48,D,Demand,497222,megawatthours
+2025-12-24T00,US48,United States Lower 48,DF,Day-ahead demand forecast,509013,megawatthours
+2025-12-24T01,US48,United States Lower 48,D,Demand,495273,megawatthours
+2025-12-24T01,US48,United States Lower 48,DF,Day-ahead demand forecast,508228,megawatthours
+2025-12-24T02,US48,United States Lower 48,D,Demand,490952,megawatthours
+2025-12-24T02,US48,United States Lower 48,DF,Day-ahead demand forecast,502491,megawatthours
+2025-12-24T03,US48,United States Lower 48,D,Demand,481312,megawatthours
+2025-12-24T03,US48,United States Lower 48,DF,Day-ahead demand forecast,489674,megawatthours
+2025-12-24T04,US48,United States Lower 48,D,Demand,467408,megawatthours
+2025-12-24T04,US48,United States Lower 48,DF,Day-ahead demand forecast,472570,megawatthours
+2025-12-24T05,US48,United States Lower 48,D,Demand,450637,megawatthours
+2025-12-24T05,US48,United States Lower 48,DF,Day-ahead demand forecast,456019,megawatthours
+2025-12-24T06,US48,United States Lower 48,D,Demand,433472,megawatthours
+2025-12-24T06,US48,United States Lower 48,DF,Day-ahead demand forecast,436455,megawatthours
+2025-12-24T07,US48,United States Lower 48,D,Demand,417795,megawatthours
+2025-12-24T07,US48,United States Lower 48,DF,Day-ahead demand forecast,419427,megawatthours
+2025-12-24T08,US48,United States Lower 48,D,Demand,407001,megawatthours
+2025-12-24T08,US48,United States Lower 48,DF,Day-ahead demand forecast,409396,megawatthours
+2025-12-24T09,US48,United States Lower 48,D,Demand,399508,megawatthours
+2025-12-24T09,US48,United States Lower 48,DF,Day-ahead demand forecast,404005,megawatthours
+2025-12-24T10,US48,United States Lower 48,D,Demand,396337,megawatthours
+2025-12-24T10,US48,United States Lower 48,DF,Day-ahead demand forecast,404182,megawatthours
+2025-12-24T11,US48,United States Lower 48,D,Demand,398100,megawatthours
+2025-12-24T11,US48,United States Lower 48,DF,Day-ahead demand forecast,413634,megawatthours
+2025-12-24T12,US48,United States Lower 48,D,Demand,408906,megawatthours
+2025-12-24T12,US48,United States Lower 48,DF,Day-ahead demand forecast,427871,megawatthours
+2025-12-24T13,US48,United States Lower 48,D,Demand,423065,megawatthours
+2025-12-24T13,US48,United States Lower 48,DF,Day-ahead demand forecast,443230,megawatthours
+2025-12-24T14,US48,United States Lower 48,D,Demand,434769,megawatthours
+2025-12-24T14,US48,United States Lower 48,DF,Day-ahead demand forecast,454507,megawatthours
+2025-12-24T15,US48,United States Lower 48,D,Demand,442274,megawatthours
+2025-12-24T15,US48,United States Lower 48,DF,Day-ahead demand forecast,460342,megawatthours
+2025-12-24T16,US48,United States Lower 48,D,Demand,447833,megawatthours
+2025-12-24T16,US48,United States Lower 48,DF,Day-ahead demand forecast,462460,megawatthours
+2025-12-24T17,US48,United States Lower 48,D,Demand,451873,megawatthours
+2025-12-24T17,US48,United States Lower 48,DF,Day-ahead demand forecast,462984,megawatthours
+2025-12-24T18,US48,United States Lower 48,D,Demand,453373,megawatthours
+2025-12-24T18,US48,United States Lower 48,DF,Day-ahead demand forecast,461958,megawatthours
+2025-12-24T19,US48,United States Lower 48,D,Demand,453705,megawatthours
+2025-12-24T19,US48,United States Lower 48,DF,Day-ahead demand forecast,460874,megawatthours
+2025-12-24T20,US48,United States Lower 48,D,Demand,455285,megawatthours
+2025-12-24T20,US48,United States Lower 48,DF,Day-ahead demand forecast,460845,megawatthours
+2025-12-24T21,US48,United States Lower 48,D,Demand,457528,megawatthours
+2025-12-24T21,US48,United States Lower 48,DF,Day-ahead demand forecast,463703,megawatthours
+2025-12-24T22,US48,United States Lower 48,D,Demand,461510,megawatthours
+2025-12-24T22,US48,United States Lower 48,DF,Day-ahead demand forecast,469779,megawatthours
+2025-12-24T23,US48,United States Lower 48,D,Demand,465244,megawatthours
+2025-12-24T23,US48,United States Lower 48,DF,Day-ahead demand forecast,473728,megawatthours
+2025-12-25T00,US48,United States Lower 48,D,Demand,465417,megawatthours
+2025-12-25T00,US48,United States Lower 48,DF,Day-ahead demand forecast,474708,megawatthours
+2025-12-25T01,US48,United States Lower 48,D,Demand,460905,megawatthours
+2025-12-25T01,US48,United States Lower 48,DF,Day-ahead demand forecast,471228,megawatthours
+2025-12-25T02,US48,United States Lower 48,D,Demand,452521,megawatthours
+2025-12-25T02,US48,United States Lower 48,DF,Day-ahead demand forecast,466060,megawatthours
+2025-12-25T03,US48,United States Lower 48,D,Demand,443074,megawatthours
+2025-12-25T03,US48,United States Lower 48,DF,Day-ahead demand forecast,456464,megawatthours
+2025-12-25T04,US48,United States Lower 48,D,Demand,432919,megawatthours
+2025-12-25T04,US48,United States Lower 48,DF,Day-ahead demand forecast,443859,megawatthours
+2025-12-25T05,US48,United States Lower 48,D,Demand,421184,megawatthours
+2025-12-25T05,US48,United States Lower 48,DF,Day-ahead demand forecast,431629,megawatthours
+2025-12-25T06,US48,United States Lower 48,D,Demand,407682,megawatthours
+2025-12-25T06,US48,United States Lower 48,DF,Day-ahead demand forecast,414446,megawatthours
+2025-12-25T07,US48,United States Lower 48,D,Demand,395845,megawatthours
+2025-12-25T07,US48,United States Lower 48,DF,Day-ahead demand forecast,399670,megawatthours
+2025-12-25T08,US48,United States Lower 48,D,Demand,386921,megawatthours
+2025-12-25T08,US48,United States Lower 48,DF,Day-ahead demand forecast,390873,megawatthours
+2025-12-25T09,US48,United States Lower 48,D,Demand,379392,megawatthours
+2025-12-25T09,US48,United States Lower 48,DF,Day-ahead demand forecast,384089,megawatthours
+2025-12-25T10,US48,United States Lower 48,D,Demand,377403,megawatthours
+2025-12-25T10,US48,United States Lower 48,DF,Day-ahead demand forecast,383113,megawatthours
+2025-12-25T11,US48,United States Lower 48,D,Demand,378834,megawatthours
+2025-12-25T11,US48,United States Lower 48,DF,Day-ahead demand forecast,388106,megawatthours
+2025-12-25T12,US48,United States Lower 48,D,Demand,383701,megawatthours
+2025-12-25T12,US48,United States Lower 48,DF,Day-ahead demand forecast,398434,megawatthours
+2025-12-25T13,US48,United States Lower 48,D,Demand,393464,megawatthours
+2025-12-25T13,US48,United States Lower 48,DF,Day-ahead demand forecast,410540,megawatthours
+2025-12-25T14,US48,United States Lower 48,D,Demand,405057,megawatthours
+2025-12-25T14,US48,United States Lower 48,DF,Day-ahead demand forecast,419904,megawatthours
+2025-12-25T15,US48,United States Lower 48,D,Demand,414550,megawatthours
+2025-12-25T15,US48,United States Lower 48,DF,Day-ahead demand forecast,426564,megawatthours
+2025-12-25T16,US48,United States Lower 48,D,Demand,420498,megawatthours
+2025-12-25T16,US48,United States Lower 48,DF,Day-ahead demand forecast,429679,megawatthours
+2025-12-25T17,US48,United States Lower 48,D,Demand,426507,megawatthours
+2025-12-25T17,US48,United States Lower 48,DF,Day-ahead demand forecast,429552,megawatthours
+2025-12-25T18,US48,United States Lower 48,D,Demand,427979,megawatthours
+2025-12-25T18,US48,United States Lower 48,DF,Day-ahead demand forecast,428945,megawatthours
+2025-12-25T19,US48,United States Lower 48,D,Demand,426866,megawatthours
+2025-12-25T19,US48,United States Lower 48,DF,Day-ahead demand forecast,428424,megawatthours
+2025-12-25T20,US48,United States Lower 48,D,Demand,426381,megawatthours
+2025-12-25T20,US48,United States Lower 48,DF,Day-ahead demand forecast,430196,megawatthours
+2025-12-25T21,US48,United States Lower 48,D,Demand,429477,megawatthours
+2025-12-25T21,US48,United States Lower 48,DF,Day-ahead demand forecast,433248,megawatthours
+2025-12-25T22,US48,United States Lower 48,D,Demand,432973,megawatthours
+2025-12-25T22,US48,United States Lower 48,DF,Day-ahead demand forecast,440980,megawatthours
+2025-12-25T23,US48,United States Lower 48,D,Demand,438658,megawatthours
+2025-12-25T23,US48,United States Lower 48,DF,Day-ahead demand forecast,447376,megawatthours
+2025-12-26T00,US48,United States Lower 48,D,Demand,441852,megawatthours
+2025-12-26T00,US48,United States Lower 48,DF,Day-ahead demand forecast,451641,megawatthours
+2025-12-26T01,US48,United States Lower 48,D,Demand,441907,megawatthours
+2025-12-26T01,US48,United States Lower 48,DF,Day-ahead demand forecast,452416,megawatthours
+2025-12-26T02,US48,United States Lower 48,D,Demand,439249,megawatthours
+2025-12-26T02,US48,United States Lower 48,DF,Day-ahead demand forecast,449471,megawatthours
+2025-12-26T03,US48,United States Lower 48,D,Demand,432738,megawatthours
+2025-12-26T03,US48,United States Lower 48,DF,Day-ahead demand forecast,441481,megawatthours
+2025-12-26T04,US48,United States Lower 48,D,Demand,423968,megawatthours
+2025-12-26T04,US48,United States Lower 48,DF,Day-ahead demand forecast,431330,megawatthours
+2025-12-26T05,US48,United States Lower 48,D,Demand,412626,megawatthours
+2025-12-26T05,US48,United States Lower 48,DF,Day-ahead demand forecast,419367,megawatthours
+2025-12-26T06,US48,United States Lower 48,D,Demand,401068,megawatthours
+2025-12-26T06,US48,United States Lower 48,DF,Day-ahead demand forecast,405865,megawatthours
+2025-12-26T07,US48,United States Lower 48,D,Demand,390868,megawatthours
+2025-12-26T07,US48,United States Lower 48,DF,Day-ahead demand forecast,392702,megawatthours
+2025-12-26T08,US48,United States Lower 48,D,Demand,383116,megawatthours
+2025-12-26T08,US48,United States Lower 48,DF,Day-ahead demand forecast,384995,megawatthours
+2025-12-26T09,US48,United States Lower 48,D,Demand,378787,megawatthours
+2025-12-26T09,US48,United States Lower 48,DF,Day-ahead demand forecast,383100,megawatthours
+2025-12-26T10,US48,United States Lower 48,D,Demand,378228,megawatthours
+2025-12-26T10,US48,United States Lower 48,DF,Day-ahead demand forecast,386364,megawatthours
+2025-12-26T11,US48,United States Lower 48,D,Demand,384115,megawatthours
+2025-12-26T11,US48,United States Lower 48,DF,Day-ahead demand forecast,396020,megawatthours
+2025-12-26T12,US48,United States Lower 48,D,Demand,396843,megawatthours
+2025-12-26T12,US48,United States Lower 48,DF,Day-ahead demand forecast,411262,megawatthours
+2025-12-26T13,US48,United States Lower 48,D,Demand,411877,megawatthours
+2025-12-26T13,US48,United States Lower 48,DF,Day-ahead demand forecast,427244,megawatthours
+2025-12-26T14,US48,United States Lower 48,D,Demand,426519,megawatthours
+2025-12-26T14,US48,United States Lower 48,DF,Day-ahead demand forecast,439549,megawatthours
+2025-12-26T15,US48,United States Lower 48,D,Demand,438055,megawatthours
+2025-12-26T15,US48,United States Lower 48,DF,Day-ahead demand forecast,447970,megawatthours
+2025-12-26T16,US48,United States Lower 48,D,Demand,449341,megawatthours
+2025-12-26T16,US48,United States Lower 48,DF,Day-ahead demand forecast,453538,megawatthours
+2025-12-26T17,US48,United States Lower 48,D,Demand,458753,megawatthours
+2025-12-26T17,US48,United States Lower 48,DF,Day-ahead demand forecast,456944,megawatthours
+2025-12-26T18,US48,United States Lower 48,D,Demand,462766,megawatthours
+2025-12-26T18,US48,United States Lower 48,DF,Day-ahead demand forecast,459534,megawatthours
+2025-12-26T19,US48,United States Lower 48,D,Demand,466251,megawatthours
+2025-12-26T19,US48,United States Lower 48,DF,Day-ahead demand forecast,461986,megawatthours
+2025-12-26T20,US48,United States Lower 48,D,Demand,469857,megawatthours
+2025-12-26T20,US48,United States Lower 48,DF,Day-ahead demand forecast,465519,megawatthours
+2025-12-26T21,US48,United States Lower 48,D,Demand,474477,megawatthours
+2025-12-26T21,US48,United States Lower 48,DF,Day-ahead demand forecast,470105,megawatthours
+2025-12-26T22,US48,United States Lower 48,D,Demand,481407,megawatthours
+2025-12-26T22,US48,United States Lower 48,DF,Day-ahead demand forecast,477399,megawatthours
+2025-12-26T23,US48,United States Lower 48,D,Demand,487608,megawatthours
+2025-12-26T23,US48,United States Lower 48,DF,Day-ahead demand forecast,480210,megawatthours
+2025-12-27T00,US48,United States Lower 48,D,Demand,490401,megawatthours
+2025-12-27T00,US48,United States Lower 48,DF,Day-ahead demand forecast,480813,megawatthours
+2025-12-27T01,US48,United States Lower 48,D,Demand,487924,megawatthours
+2025-12-27T01,US48,United States Lower 48,DF,Day-ahead demand forecast,477134,megawatthours
+2025-12-27T02,US48,United States Lower 48,D,Demand,481262,megawatthours
+2025-12-27T02,US48,United States Lower 48,DF,Day-ahead demand forecast,471258,megawatthours
+2025-12-27T03,US48,United States Lower 48,D,Demand,469548,megawatthours
+2025-12-27T03,US48,United States Lower 48,DF,Day-ahead demand forecast,460578,megawatthours
+2025-12-27T04,US48,United States Lower 48,D,Demand,456042,megawatthours
+2025-12-27T04,US48,United States Lower 48,DF,Day-ahead demand forecast,447486,megawatthours
+2025-12-27T05,US48,United States Lower 48,D,Demand,440779,megawatthours
+2025-12-27T05,US48,United States Lower 48,DF,Day-ahead demand forecast,432857,megawatthours
+2025-12-27T06,US48,United States Lower 48,D,Demand,425606,megawatthours
+2025-12-27T06,US48,United States Lower 48,DF,Day-ahead demand forecast,418177,megawatthours
+2025-12-27T07,US48,United States Lower 48,D,Demand,411964,megawatthours
+2025-12-27T07,US48,United States Lower 48,DF,Day-ahead demand forecast,402860,megawatthours
+2025-12-27T08,US48,United States Lower 48,D,Demand,402727,megawatthours
+2025-12-27T08,US48,United States Lower 48,DF,Day-ahead demand forecast,393445,megawatthours
+2025-12-27T09,US48,United States Lower 48,D,Demand,395414,megawatthours
+2025-12-27T09,US48,United States Lower 48,DF,Day-ahead demand forecast,387505,megawatthours
+2025-12-27T10,US48,United States Lower 48,D,Demand,392503,megawatthours
+2025-12-27T10,US48,United States Lower 48,DF,Day-ahead demand forecast,386833,megawatthours
+2025-12-27T11,US48,United States Lower 48,D,Demand,392611,megawatthours
+2025-12-27T11,US48,United States Lower 48,DF,Day-ahead demand forecast,390429,megawatthours
+2025-12-27T12,US48,United States Lower 48,D,Demand,397959,megawatthours
+2025-12-27T12,US48,United States Lower 48,DF,Day-ahead demand forecast,399927,megawatthours
+2025-12-27T13,US48,United States Lower 48,D,Demand,409284,megawatthours
+2025-12-27T13,US48,United States Lower 48,DF,Day-ahead demand forecast,412262,megawatthours
+2025-12-27T14,US48,United States Lower 48,D,Demand,421826,megawatthours
+2025-12-27T14,US48,United States Lower 48,DF,Day-ahead demand forecast,425044,megawatthours
+2025-12-27T15,US48,United States Lower 48,D,Demand,434479,megawatthours
+2025-12-27T15,US48,United States Lower 48,DF,Day-ahead demand forecast,435929,megawatthours
+2025-12-27T16,US48,United States Lower 48,D,Demand,445718,megawatthours
+2025-12-27T16,US48,United States Lower 48,DF,Day-ahead demand forecast,442877,megawatthours
+2025-12-27T17,US48,United States Lower 48,D,Demand,452656,megawatthours
+2025-12-27T17,US48,United States Lower 48,DF,Day-ahead demand forecast,445901,megawatthours
+2025-12-27T18,US48,United States Lower 48,D,Demand,456947,megawatthours
+2025-12-27T18,US48,United States Lower 48,DF,Day-ahead demand forecast,447694,megawatthours
+2025-12-27T19,US48,United States Lower 48,D,Demand,459188,megawatthours
+2025-12-27T19,US48,United States Lower 48,DF,Day-ahead demand forecast,448180,megawatthours
+2025-12-27T20,US48,United States Lower 48,D,Demand,460359,megawatthours
+2025-12-27T20,US48,United States Lower 48,DF,Day-ahead demand forecast,449848,megawatthours
+2025-12-27T21,US48,United States Lower 48,D,Demand,461567,megawatthours
+2025-12-27T21,US48,United States Lower 48,DF,Day-ahead demand forecast,454365,megawatthours
+2025-12-27T22,US48,United States Lower 48,D,Demand,467524,megawatthours
+2025-12-27T22,US48,United States Lower 48,DF,Day-ahead demand forecast,462250,megawatthours
+2025-12-27T23,US48,United States Lower 48,D,Demand,475174,megawatthours
+2025-12-27T23,US48,United States Lower 48,DF,Day-ahead demand forecast,468589,megawatthours
+2025-12-28T00,US48,United States Lower 48,D,Demand,479388,megawatthours
+2025-12-28T00,US48,United States Lower 48,DF,Day-ahead demand forecast,472417,megawatthours
+2025-12-28T01,US48,United States Lower 48,D,Demand,480176,megawatthours
+2025-12-28T01,US48,United States Lower 48,DF,Day-ahead demand forecast,473007,megawatthours
+2025-12-28T02,US48,United States Lower 48,D,Demand,477326,megawatthours
+2025-12-28T02,US48,United States Lower 48,DF,Day-ahead demand forecast,469779,megawatthours
+2025-12-28T03,US48,United States Lower 48,D,Demand,468445,megawatthours
+2025-12-28T03,US48,United States Lower 48,DF,Day-ahead demand forecast,460800,megawatthours
+2025-12-28T04,US48,United States Lower 48,D,Demand,457339,megawatthours
+2025-12-28T04,US48,United States Lower 48,DF,Day-ahead demand forecast,449125,megawatthours
+2025-12-28T05,US48,United States Lower 48,D,Demand,443325,megawatthours
+2025-12-28T05,US48,United States Lower 48,DF,Day-ahead demand forecast,435761,megawatthours
+2025-12-28T06,US48,United States Lower 48,D,Demand,428551,megawatthours
+2025-12-28T06,US48,United States Lower 48,DF,Day-ahead demand forecast,423239,megawatthours
+2025-12-28T07,US48,United States Lower 48,D,Demand,415480,megawatthours
+2025-12-28T07,US48,United States Lower 48,DF,Day-ahead demand forecast,410746,megawatthours
+2025-12-28T08,US48,United States Lower 48,D,Demand,405414,megawatthours
+2025-12-28T08,US48,United States Lower 48,DF,Day-ahead demand forecast,401457,megawatthours
+2025-12-28T09,US48,United States Lower 48,D,Demand,398592,megawatthours
+2025-12-28T09,US48,United States Lower 48,DF,Day-ahead demand forecast,396966,megawatthours
+2025-12-28T10,US48,United States Lower 48,D,Demand,395845,megawatthours
+2025-12-28T10,US48,United States Lower 48,DF,Day-ahead demand forecast,395205,megawatthours
+2025-12-28T11,US48,United States Lower 48,D,Demand,397479,megawatthours
+2025-12-28T11,US48,United States Lower 48,DF,Day-ahead demand forecast,397743,megawatthours
+2025-12-28T12,US48,United States Lower 48,D,Demand,402925,megawatthours
+2025-12-28T12,US48,United States Lower 48,DF,Day-ahead demand forecast,404664,megawatthours
+2025-12-28T13,US48,United States Lower 48,D,Demand,412553,megawatthours
+2025-12-28T13,US48,United States Lower 48,DF,Day-ahead demand forecast,415527,megawatthours
+2025-12-28T14,US48,United States Lower 48,D,Demand,425574,megawatthours
+2025-12-28T14,US48,United States Lower 48,DF,Day-ahead demand forecast,428360,megawatthours
+2025-12-28T15,US48,United States Lower 48,D,Demand,438923,megawatthours
+2025-12-28T15,US48,United States Lower 48,DF,Day-ahead demand forecast,439419,megawatthours
+2025-12-28T16,US48,United States Lower 48,D,Demand,449284,megawatthours
+2025-12-28T16,US48,United States Lower 48,DF,Day-ahead demand forecast,447892,megawatthours
+2025-12-28T17,US48,United States Lower 48,D,Demand,456312,megawatthours
+2025-12-28T17,US48,United States Lower 48,DF,Day-ahead demand forecast,451281,megawatthours
+2025-12-28T18,US48,United States Lower 48,D,Demand,462707,megawatthours
+2025-12-28T18,US48,United States Lower 48,DF,Day-ahead demand forecast,452913,megawatthours
+2025-12-28T19,US48,United States Lower 48,D,Demand,466409,megawatthours
+2025-12-28T19,US48,United States Lower 48,DF,Day-ahead demand forecast,453749,megawatthours
+2025-12-28T20,US48,United States Lower 48,D,Demand,468197,megawatthours
+2025-12-28T20,US48,United States Lower 48,DF,Day-ahead demand forecast,455678,megawatthours
+2025-12-28T21,US48,United States Lower 48,D,Demand,470323,megawatthours
+2025-12-28T21,US48,United States Lower 48,DF,Day-ahead demand forecast,460312,megawatthours
+2025-12-28T22,US48,United States Lower 48,D,Demand,476221,megawatthours
+2025-12-28T22,US48,United States Lower 48,DF,Day-ahead demand forecast,468331,megawatthours
+2025-12-28T23,US48,United States Lower 48,D,Demand,483927,megawatthours
+2025-12-28T23,US48,United States Lower 48,DF,Day-ahead demand forecast,476949,megawatthours
+2025-12-29T00,US48,United States Lower 48,D,Demand,489927,megawatthours
+2025-12-29T00,US48,United States Lower 48,DF,Day-ahead demand forecast,485944,megawatthours
+2025-12-29T01,US48,United States Lower 48,D,Demand,492445,megawatthours
+2025-12-29T01,US48,United States Lower 48,DF,Day-ahead demand forecast,488407,megawatthours
+2025-12-29T02,US48,United States Lower 48,D,Demand,490541,megawatthours
+2025-12-29T02,US48,United States Lower 48,DF,Day-ahead demand forecast,485079,megawatthours
+2025-12-29T03,US48,United States Lower 48,D,Demand,479030,megawatthours
+2025-12-29T03,US48,United States Lower 48,DF,Day-ahead demand forecast,474561,megawatthours
+2025-12-29T04,US48,United States Lower 48,D,Demand,466946,megawatthours
+2025-12-29T04,US48,United States Lower 48,DF,Day-ahead demand forecast,460060,megawatthours
+2025-12-29T05,US48,United States Lower 48,D,Demand,452534,megawatthours
+2025-12-29T05,US48,United States Lower 48,DF,Day-ahead demand forecast,444051,megawatthours
+2025-12-29T06,US48,United States Lower 48,D,Demand,445559,megawatthours
+2025-12-29T06,US48,United States Lower 48,DF,Day-ahead demand forecast,431768,megawatthours
+2025-12-29T07,US48,United States Lower 48,D,Demand,427770,megawatthours
+2025-12-29T07,US48,United States Lower 48,DF,Day-ahead demand forecast,418948,megawatthours
+2025-12-29T08,US48,United States Lower 48,D,Demand,419426,megawatthours
+2025-12-29T08,US48,United States Lower 48,DF,Day-ahead demand forecast,412081,megawatthours
+2025-12-29T09,US48,United States Lower 48,D,Demand,413145,megawatthours
+2025-12-29T09,US48,United States Lower 48,DF,Day-ahead demand forecast,411195,megawatthours
+2025-12-29T10,US48,United States Lower 48,D,Demand,413744,megawatthours
+2025-12-29T10,US48,United States Lower 48,DF,Day-ahead demand forecast,417744,megawatthours
+2025-12-29T11,US48,United States Lower 48,D,Demand,422874,megawatthours
+2025-12-29T11,US48,United States Lower 48,DF,Day-ahead demand forecast,433260,megawatthours
+2025-12-29T12,US48,United States Lower 48,D,Demand,442218,megawatthours
+2025-12-29T12,US48,United States Lower 48,DF,Day-ahead demand forecast,455968,megawatthours
+2025-12-29T13,US48,United States Lower 48,D,Demand,465703,megawatthours
+2025-12-29T13,US48,United States Lower 48,DF,Day-ahead demand forecast,478821,megawatthours
+2025-12-29T14,US48,United States Lower 48,D,Demand,487266,megawatthours
+2025-12-29T14,US48,United States Lower 48,DF,Day-ahead demand forecast,495976,megawatthours
+2025-12-29T15,US48,United States Lower 48,D,Demand,503577,megawatthours
+2025-12-29T15,US48,United States Lower 48,DF,Day-ahead demand forecast,508373,megawatthours
+2025-12-29T16,US48,United States Lower 48,D,Demand,512941,megawatthours
+2025-12-29T16,US48,United States Lower 48,DF,Day-ahead demand forecast,513566,megawatthours
+2025-12-29T17,US48,United States Lower 48,D,Demand,515880,megawatthours
+2025-12-29T17,US48,United States Lower 48,DF,Day-ahead demand forecast,515701,megawatthours
+2025-12-29T18,US48,United States Lower 48,D,Demand,515628,megawatthours
+2025-12-29T18,US48,United States Lower 48,DF,Day-ahead demand forecast,514990,megawatthours
+2025-12-29T19,US48,United States Lower 48,D,Demand,513818,megawatthours
+2025-12-29T19,US48,United States Lower 48,DF,Day-ahead demand forecast,512433,megawatthours
+2025-12-29T20,US48,United States Lower 48,D,Demand,511476,megawatthours
+2025-12-29T20,US48,United States Lower 48,DF,Day-ahead demand forecast,511431,megawatthours
+2025-12-29T21,US48,United States Lower 48,D,Demand,510766,megawatthours
+2025-12-29T21,US48,United States Lower 48,DF,Day-ahead demand forecast,513212,megawatthours
+2025-12-29T22,US48,United States Lower 48,D,Demand,518538,megawatthours
+2025-12-29T22,US48,United States Lower 48,DF,Day-ahead demand forecast,522017,megawatthours
+2025-12-29T23,US48,United States Lower 48,D,Demand,533615,megawatthours
+2025-12-29T23,US48,United States Lower 48,DF,Day-ahead demand forecast,534868,megawatthours
+2025-12-30T00,US48,United States Lower 48,D,Demand,546250,megawatthours
+2025-12-30T00,US48,United States Lower 48,DF,Day-ahead demand forecast,546947,megawatthours
+2025-12-30T01,US48,United States Lower 48,D,Demand,553850,megawatthours
+2025-12-30T01,US48,United States Lower 48,DF,Day-ahead demand forecast,553002,megawatthours
+2025-12-30T02,US48,United States Lower 48,D,Demand,553657,megawatthours
+2025-12-30T02,US48,United States Lower 48,DF,Day-ahead demand forecast,551659,megawatthours
+2025-12-30T03,US48,United States Lower 48,D,Demand,546217,megawatthours
+2025-12-30T03,US48,United States Lower 48,DF,Day-ahead demand forecast,542671,megawatthours
+2025-12-30T04,US48,United States Lower 48,D,Demand,533523,megawatthours
+2025-12-30T04,US48,United States Lower 48,DF,Day-ahead demand forecast,528225,megawatthours
+2025-12-30T05,US48,United States Lower 48,D,Demand,519097,megawatthours
+2025-12-30T05,US48,United States Lower 48,DF,Day-ahead demand forecast,512903,megawatthours
+2025-12-30T06,US48,United States Lower 48,D,Demand,503628,megawatthours
+2025-12-30T06,US48,United States Lower 48,DF,Day-ahead demand forecast,496690,megawatthours
+2025-12-30T07,US48,United States Lower 48,D,Demand,492939,megawatthours
+2025-12-30T07,US48,United States Lower 48,DF,Day-ahead demand forecast,488922,megawatthours
+2025-12-30T08,US48,United States Lower 48,D,Demand,486192,megawatthours
+2025-12-30T08,US48,United States Lower 48,DF,Day-ahead demand forecast,484121,megawatthours
+2025-12-30T09,US48,United States Lower 48,D,Demand,486694,megawatthours
+2025-12-30T09,US48,United States Lower 48,DF,Day-ahead demand forecast,484944,megawatthours
+2025-12-30T10,US48,United States Lower 48,D,Demand,488824,megawatthours
+2025-12-30T10,US48,United States Lower 48,DF,Day-ahead demand forecast,492590,megawatthours
+2025-12-30T11,US48,United States Lower 48,D,Demand,500637,megawatthours
+2025-12-30T11,US48,United States Lower 48,DF,Day-ahead demand forecast,510279,megawatthours
+2025-12-30T12,US48,United States Lower 48,D,Demand,520883,megawatthours
+2025-12-30T12,US48,United States Lower 48,DF,Day-ahead demand forecast,533819,megawatthours
+2025-12-30T13,US48,United States Lower 48,D,Demand,543138,megawatthours
+2025-12-30T13,US48,United States Lower 48,DF,Day-ahead demand forecast,553558,megawatthours
+2025-12-30T14,US48,United States Lower 48,D,Demand,558169,megawatthours
+2025-12-30T14,US48,United States Lower 48,DF,Day-ahead demand forecast,562728,megawatthours
+2025-12-30T15,US48,United States Lower 48,D,Demand,559707,megawatthours
+2025-12-30T15,US48,United States Lower 48,DF,Day-ahead demand forecast,560584,megawatthours
+2025-12-30T16,US48,United States Lower 48,D,Demand,553940,megawatthours
+2025-12-30T16,US48,United States Lower 48,DF,Day-ahead demand forecast,552004,megawatthours
+2025-12-30T17,US48,United States Lower 48,D,Demand,544967,megawatthours
+2025-12-30T17,US48,United States Lower 48,DF,Day-ahead demand forecast,540092,megawatthours
+2025-12-30T18,US48,United States Lower 48,D,Demand,534174,megawatthours
+2025-12-30T18,US48,United States Lower 48,DF,Day-ahead demand forecast,528964,megawatthours
+2025-12-30T19,US48,United States Lower 48,D,Demand,524774,megawatthours
+2025-12-30T19,US48,United States Lower 48,DF,Day-ahead demand forecast,519438,megawatthours
+2025-12-30T20,US48,United States Lower 48,D,Demand,518072,megawatthours
+2025-12-30T20,US48,United States Lower 48,DF,Day-ahead demand forecast,514012,megawatthours
+2025-12-30T21,US48,United States Lower 48,D,Demand,514631,megawatthours
+2025-12-30T21,US48,United States Lower 48,DF,Day-ahead demand forecast,515323,megawatthours
+2025-12-30T22,US48,United States Lower 48,D,Demand,520189,megawatthours
+2025-12-30T22,US48,United States Lower 48,DF,Day-ahead demand forecast,524914,megawatthours
+2025-12-30T23,US48,United States Lower 48,D,Demand,534972,megawatthours
+2025-12-30T23,US48,United States Lower 48,DF,Day-ahead demand forecast,538369,megawatthours
+2025-12-31T00,US48,United States Lower 48,D,Demand,548748,megawatthours
+2025-12-31T00,US48,United States Lower 48,DF,Day-ahead demand forecast,553444,megawatthours
+2025-12-31T01,US48,United States Lower 48,D,Demand,556653,megawatthours
+2025-12-31T01,US48,United States Lower 48,DF,Day-ahead demand forecast,562573,megawatthours
+2025-12-31T02,US48,United States Lower 48,D,Demand,557401,megawatthours
+2025-12-31T02,US48,United States Lower 48,DF,Day-ahead demand forecast,562831,megawatthours
+2025-12-31T03,US48,United States Lower 48,D,Demand,549877,megawatthours
+2025-12-31T03,US48,United States Lower 48,DF,Day-ahead demand forecast,553346,megawatthours
+2025-12-31T04,US48,United States Lower 48,D,Demand,538075,megawatthours
+2025-12-31T04,US48,United States Lower 48,DF,Day-ahead demand forecast,539481,megawatthours
+2025-12-31T05,US48,United States Lower 48,D,Demand,523135,megawatthours
+2025-12-31T05,US48,United States Lower 48,DF,Day-ahead demand forecast,524027,megawatthours
+2025-12-31T06,US48,United States Lower 48,D,Demand,511388,megawatthours
+2025-12-31T06,US48,United States Lower 48,DF,Day-ahead demand forecast,516507,megawatthours
+2025-12-31T07,US48,United States Lower 48,D,Demand,500982,megawatthours
+2025-12-31T07,US48,United States Lower 48,DF,Day-ahead demand forecast,504658,megawatthours
+2025-12-31T08,US48,United States Lower 48,D,Demand,493706,megawatthours
+2025-12-31T08,US48,United States Lower 48,DF,Day-ahead demand forecast,498748,megawatthours
+2025-12-31T09,US48,United States Lower 48,D,Demand,492057,megawatthours
+2025-12-31T09,US48,United States Lower 48,DF,Day-ahead demand forecast,497509,megawatthours
+2025-12-31T10,US48,United States Lower 48,D,Demand,493734,megawatthours
+2025-12-31T10,US48,United States Lower 48,DF,Day-ahead demand forecast,504707,megawatthours
+2025-12-31T11,US48,United States Lower 48,D,Demand,502615,megawatthours
+2025-12-31T11,US48,United States Lower 48,DF,Day-ahead demand forecast,519838,megawatthours
+2025-12-31T12,US48,United States Lower 48,D,Demand,519897,megawatthours
+2025-12-31T12,US48,United States Lower 48,DF,Day-ahead demand forecast,539656,megawatthours
+2025-12-31T13,US48,United States Lower 48,D,Demand,539422,megawatthours
+2025-12-31T13,US48,United States Lower 48,DF,Day-ahead demand forecast,556016,megawatthours
+2025-12-31T14,US48,United States Lower 48,D,Demand,549053,megawatthours
+2025-12-31T14,US48,United States Lower 48,DF,Day-ahead demand forecast,562285,megawatthours
+2025-12-31T15,US48,United States Lower 48,D,Demand,542431,megawatthours
+2025-12-31T15,US48,United States Lower 48,DF,Day-ahead demand forecast,554222,megawatthours
+2025-12-31T16,US48,United States Lower 48,D,Demand,531273,megawatthours
+2025-12-31T16,US48,United States Lower 48,DF,Day-ahead demand forecast,540490,megawatthours
+2025-12-31T17,US48,United States Lower 48,D,Demand,519866,megawatthours
+2025-12-31T17,US48,United States Lower 48,DF,Day-ahead demand forecast,526863,megawatthours
+2025-12-31T18,US48,United States Lower 48,D,Demand,511691,megawatthours
+2025-12-31T18,US48,United States Lower 48,DF,Day-ahead demand forecast,514622,megawatthours
+2025-12-31T19,US48,United States Lower 48,D,Demand,504194,megawatthours
+2025-12-31T19,US48,United States Lower 48,DF,Day-ahead demand forecast,503547,megawatthours
+2025-12-31T20,US48,United States Lower 48,D,Demand,498592,megawatthours
+2025-12-31T20,US48,United States Lower 48,DF,Day-ahead demand forecast,498564,megawatthours
+2025-12-31T21,US48,United States Lower 48,D,Demand,489667,megawatthours
+2025-12-31T21,US48,United States Lower 48,DF,Day-ahead demand forecast,499396,megawatthours
+2025-12-31T22,US48,United States Lower 48,D,Demand,494813,megawatthours
+2025-12-31T22,US48,United States Lower 48,DF,Day-ahead demand forecast,507732,megawatthours
+2025-12-31T23,US48,United States Lower 48,D,Demand,507372,megawatthours
+2025-12-31T23,US48,United States Lower 48,DF,Day-ahead demand forecast,519230,megawatthours
