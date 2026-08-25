@@ -68,12 +68,19 @@ data and confirmed:
 - **Weather information cutoff: lagged ERA5 only.** Every weather feature
   used to predict target time `t` is built from ERA5 data at or before
   `t - 24h`, never later. Note this is a documented simplification: the
-  ERA5 files here are the *final* release (`expver=0001`), which in
-  practice publishes with roughly a 5-day lag -- a true real-time system
-  would need either ERA5T (preliminary, ~5-day-fresher) or actual forecast
-  weather (e.g. GFS/HRRR) rather than reanalysis. Treat this pipeline's
-  numbers as an upper bound on what's achievable with lagged-reanalysis-only
-  weather, not a deployable forecast. The same caveat applies to demand
+  `.nc` files are actually **ERA5T** (Copernicus's preliminary/near-real-time
+  product, not final ERA5) -- confirmed from the actual acquisition script
+  (`~/Desktop/energy/save_data.ipynb`, which explicitly requests ERA5T via
+  the CDS API), correcting an earlier version of this document that assumed
+  `expver=0001` meant final ERA5; that tag doesn't reliably distinguish the
+  two for this CDS endpoint. ERA5T typically publishes within a few days of
+  real time but isn't final -- ECMWF later reprocesses it into consolidated
+  ERA5 (with possible small revisions) roughly 2-3 months after the fact.
+  A true real-time system would need to either accept ERA5T's preliminary
+  status and revision risk, or use actual forecast weather (e.g. GFS/HRRR)
+  instead of reanalysis. Treat this pipeline's numbers as an upper bound on
+  what's achievable with lagged-reanalysis-only weather, not a deployable
+  forecast. The same caveat applies to demand
   actuals: `demand_lag{horizon}` assumes EIA's `D` (actuals) value at exactly
   `t - horizon` is available at issuance time `t - horizon`. Unlike `DF`
   (a forecast, genuinely known in advance by construction), EIA's hourly
@@ -113,7 +120,10 @@ src/
 tests/                      # no-leakage, alignment, schema, split, model tests
 scripts/reproduce_legacy.py # faithfully reproduces the legacy (flawed) result
 run_pipeline.py             # the corrected end-to-end pipeline
-legacy/                     # original ml_code.ipynb + era5-s3-via-boto.ipynb, preserved as-is
+legacy/                     # original ml_code.ipynb, preserved as-is; era5-s3-via-boto.ipynb
+                             # is a stale, never-actually-used AWS example, kept only because
+                             # it was one of the two notebooks originally handed over --
+                             # see AUDIT.md section 9 for what the real ERA5T pull looks like
 data/raw/                   # symlinks to the raw ERA5 .nc files and eia_load_data.csv
                              # (kept in ~/Desktop/energy/, not duplicated -- see below)
 results/tables/             # output CSVs from both scripts
@@ -189,9 +199,11 @@ and write to `results/tables/`.
   isn't wired into anything yet (e.g. picking between a couple of
   hyperparameter configs per model, or early stopping for XGBoost). Treat it
   as reserved, not as evidence that any model selection happened.
-- **Weather latency is idealized.** As noted above, this uses final ERA5
-  (5-day publication lag in reality) as if it were available at `t-24h`.
-  A deployable version needs forecast weather (GFS/HRRR) or ERA5T.
+- **Weather latency is idealized.** As noted above, this uses ERA5T
+  (preliminary, itself subject to later revision when consolidated into
+  final ERA5) as if it were available exactly at `t-24h`. A deployable
+  version needs actual forecast weather (GFS/HRRR), since even ERA5T isn't
+  produced fast enough or guaranteed stable enough for real-time use as-is.
 - **Fixed-cutoff split, not rolling-origin.** One train/val/test boundary
   rather than walk-forward cross-validation; reasonable for a first
   correct baseline, but a single test window (here, six autumn weeks) is a
