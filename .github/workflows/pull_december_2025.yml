@@ -1,0 +1,58 @@
+name: Pull December 2025 data
+
+# One-off backfill to complete calendar-year 2025 (Jan-Nov already present
+# locally). Manually triggered, not scheduled -- this is a single backfill,
+# not a standing recurring job.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  pull-eia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install pandas requests
+      - name: Pull EIA December 2025 (US48, D + DF)
+        env:
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+        run: |
+          python scripts/pull_eia_month.py \
+            --start 2025-12-01T00 --end 2025-12-31T23 \
+            --respondent US48 --types D DF \
+            --out data/pulled/eia_us48_202512.csv
+      - name: Commit EIA pull
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/pulled/eia_us48_202512.csv
+          git diff --cached --quiet || git commit -m "Add EIA US48 D/DF data for December 2025"
+          git pull --rebase origin main
+          git push
+
+  pull-era5t:
+    runs-on: ubuntu-latest
+    # CDS queue times are unpredictable -- can be minutes or several hours.
+    # GitHub-hosted runners cap a single job at 360 minutes regardless.
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install cdsapi
+      - name: Restore CDS credentials
+        run: echo "${{ secrets.CDSAPIRC }}" > ~/.cdsapirc
+      - name: Pull ERA5T December 2025
+        run: python scripts/pull_era5t_month.py --year 2025 --month 12 --out-dir era5t_pull
+      - uses: actions/upload-artifact@v4
+        with:
+          name: eta_2025_12
+          path: era5t_pull/eta_2025_12.nc
+          retention-days: 14
