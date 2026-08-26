@@ -156,6 +156,16 @@ on GitHub" rather than locally. What happened, for the record:
   got echoed once into this session's tool output while I was searching for
   it (low-stakes -- free-tier EIA key, no billing/infra attached -- but
   disclosed to the user at the time). It was never committed to git.
+  **Resolution (pre-publish review):** attempted rotation before making the
+  repo public. EIA's registration system turned out not to support
+  self-service key rotation at all -- registering the same email again
+  returns "already registered," and "Forgot My API Key" only re-sends the
+  existing key, it doesn't reissue a new one. Given that constraint, and
+  that the exposure was confined to this session's own tool output (never
+  committed, never posted publicly) on a free-tier key with no billing
+  attached, the user's decision was to leave the existing key in place
+  rather than register a new key under a different email. Re-confirmed via
+  `grep` that no key value is committed anywhere in the repo (clean).
 - **Credential handling for the automated pull:** with the user's explicit
   go-ahead, the existing EIA key and the existing `~/.cdsapirc` (Copernicus
   credentials) were added as encrypted GitHub Actions repo secrets
