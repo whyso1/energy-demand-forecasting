@@ -215,3 +215,7 @@ and write to `results/tables/`.
   single-BA version (e.g. `CISO`, `ERCO`) with weather clipped to that BA's
   footprint would have tighter physical coupling, at the cost of losing
   the clean `US48` <-> CONUS-mean pairing.
+
+## License
+
+MIT -- see [LICENSE](LICENSE).
