@@ -6,6 +6,19 @@ data backfill). Organized as: what was verified, what was changed and why,
 what was tested, what's still open, and what a reviewer should scrutinize
 that I could not fully verify myself.
 
+## Methodology note
+
+This audit log was produced through iterative sessions with Claude Code,
+which I directed to re-verify every claim in this document against actual
+source files rather than trust its own or my prior summaries. Where the
+log below uses "I," that refers to the AI performing the stated
+verification step under my direction; decisions about what to fix, what
+to leave open, and how to handle the credential exposure in section 7
+were mine. The self-corrections in sections 8 and 9 — including a case
+where an earlier version of this document stated something wrong and had
+to be corrected — are preserved as-is because they're evidence the
+re-verification standard was actually enforced, not just claimed.
+
 ## 1. Scope
 
 Input: `legacy/ml_code.ipynb` (audited, executed, with stored outputs),
